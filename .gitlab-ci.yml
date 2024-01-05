@@ -24,8 +24,8 @@ default:
       https://github.com/gohugoio/hugo/releases/latest|\
       grep -o "[^/]*$"| sed "s/v//g"|\
       xargs -I T echo \
-      https://github.com/gohugoio/hugo/releases/download/vT/hugo_T_linux-amd64.deb \
-      -o hugo_T_linux-amd64.deb | \
+      https://github.com/gohugoio/hugo/releases/download/vT/hugo_extended_T_linux-amd64.deb \
+      -o hugo_extended_T_linux-amd64.deb | \
       xargs curl -kL
 # check checksum of downloaded file is feda2b1405c084def5a794af02474473ceeb437959e5e37b6d07892286ec0a1e or fail
     - dpkg -i hugo*.deb
