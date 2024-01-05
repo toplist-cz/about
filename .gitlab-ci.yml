@@ -13,7 +13,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
 variables:
   HUGO_ENV: production
-  THEME_URL: "github.com/theNewDynamic/gohugo-theme-ananke"
+  THEME_URL: "github.com/thegeeklab/hugo-geekdoc"
 
 default:
   before_script:
@@ -30,7 +30,7 @@ test:
 
 pages:
   script:
-    - hugo
+    - hugo --minify
   artifacts:
     paths:
       - public
