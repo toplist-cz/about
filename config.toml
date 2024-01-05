@@ -15,13 +15,14 @@
 #theme = "ananke"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://s.toplist.cz/about/public/"
 title = "GitLab Pages and Hugo"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 languageCode = "en-us"
 resourceDir = "../resources"
+relativeURLs = true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
