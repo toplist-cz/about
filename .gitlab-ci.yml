@@ -18,7 +18,7 @@ variables:
 
 default:
   before_script:
-    - apt-get update -qq && apt-get upgrade -y -qq && apt-get install -y -qq git golang-go curl
+    - apt-get update -qq && apt-get upgrade -y -qq && apt-get install -y -qq git golang-go curl rsync openssh-client openssl
     - eval $(ssh-agent -s)
     - echo "${DEPLOY_KEY}" | openssl base64 -A -d | ssh-add -
     - mkdir -p ~/.ssh
