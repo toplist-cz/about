@@ -19,6 +19,12 @@ variables:
 default:
   before_script:
     - apt-get update -qq && apt-get upgrade -y -qq && apt-get install -y -qq git golang-go curl
+    - eval $(ssh-agent -s)
+    - echo "${DEPLOY_KEY}" | openssl base64 -A -d | ssh-add -
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - ssh-keyscan 10.183.148.183 >> ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
     - |
       curl -IkLs -o NUL -w %{url_effective} \
       https://github.com/gohugoio/hugo/releases/latest|\
@@ -37,12 +43,16 @@ default:
 test:
   script:
     - hugo
+    - rsync -rav --delete-after ./public gitlab@10.183.148.183:www/about-dev
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
-pages:
+deploy:
+  tags:
+    - kvm
   script:
     - hugo --minify
+    - rsync -rav --delete-after ./public gitlab@10.183.148.183:www/about
   artifacts:
     paths:
       - public
