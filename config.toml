@@ -15,7 +15,7 @@
 #theme = "ananke"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-baseurl = "https://s.toplist.cz/about/public/"
+baseurl = "https://s.toplist.cz/"
 title = "GitLab Pages and Hugo"
 contentdir    = "content"
 layoutdir     = "layouts"
