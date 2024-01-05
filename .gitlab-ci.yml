@@ -9,15 +9,27 @@
 # - To change the theme, see
 #   https://gitlab.com/pages/hugo/-/blob/main/README.md#use-a-custom-theme.
 #
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+image: ${CI_DEPENDENCY_PROXY_GROUP_IMAGE_PREFIX}/debian:stable-slim
 
 variables:
+  GIT_SUBMODULE_STRATEGY: recursive
   HUGO_ENV: production
   THEME_URL: "github.com/thegeeklab/hugo-geekdoc"
 
 default:
   before_script:
-    - apk add --no-cache go curl bash nodejs
+    - apt-get update -qq && apt-get upgrade -y -qq && apt-get install -y -qq git golang-go curl
+    - |
+      curl -IkLs -o NUL -w %{url_effective} \
+      https://github.com/gohugoio/hugo/releases/latest|\
+      grep -o "[^/]*$"| sed "s/v//g"|\
+      xargs -I T echo \
+      https://github.com/gohugoio/hugo/releases/download/vT/hugo_T_linux-amd64.deb \
+      -o hugo_T_linux-amd64.deb | \
+      xargs curl -kL
+# check checksum of downloaded file is feda2b1405c084def5a794af02474473ceeb437959e5e37b6d07892286ec0a1e or fail
+    - dpkg -i hugo*.deb
+    - rm -f hugo*.deb
     - hugo mod get -u $THEME_URL
     ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
     #- npm install postcss postcss-cli autoprefixer
