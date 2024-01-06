@@ -14,14 +14,14 @@
 #
 theme = ["github.com/thegeeklab/hugo-geekdoc"]
 
-baseurl = "https://s.toplist.cz/about/public/"
+baseurl = "https://s.toplist.cz/"
 title = "O TOPlist.cz"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 languageCode = "cs-CZ"
 resourceDir = "../resources"
-#relativeURLs = true
+relativeURLs = true
 
 DefaultContentLanguage = "cs"
 SectionPagesMenu = "main"
