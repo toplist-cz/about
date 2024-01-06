@@ -15,4 +15,4 @@ Stačí 3 jednoduché kroky:
 
 Tipy jak umístit měřící kód do různých redakčních systémů najdete na stránce Kód_na_stránku
 
-Pokud máte nějaké otázky, zkuste se podívat do [častých dotazů](FAQ) nebo nám napište na helpdesk@toplist.cz.
+Pokud máte nějaké otázky, zkuste se podívat do [častých dotazů](faq) nebo nám napište na helpdesk@toplist.cz.
