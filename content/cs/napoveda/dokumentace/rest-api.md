@@ -2,7 +2,7 @@
 title: REST API
 resources:
     - name: api-1
-      src: "images/api1.png"
+      src: "api1.png"
       title: "Autorizace v API"
 ---
 Pro přístup k datům, statistikám a správě podporuje TOPlist také rozhranní REST API. Jeho úvodní stránka je na adrese
