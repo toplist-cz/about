@@ -33,14 +33,8 @@ default:
       https://github.com/gohugoio/hugo/releases/download/vT/hugo_extended_T_linux-amd64.deb \
       -o hugo_extended_T_linux-amd64.deb | \
       xargs curl -kL
-# check checksum of downloaded file is feda2b1405c084def5a794af02474473ceeb437959e5e37b6d07892286ec0a1e or fail
     - dpkg -i hugo*.deb
     - rm -f hugo*.deb
-    - |
-      curl -IkLs -o NUL -w %{url_effective} \
-      https://github.com/gohugoio/hugo/releases/latest|\
-      grep -o "[^/]*$"| sed "s/v//g"|\
-# export the latest version of hugo
     - curl -kL https://github.com/thegeeklab/hugo-geekdoc/releases/download/v0.44.0/hugo-geekdoc.tar.gz -o hugo-geekdoc.tar.gz
     - sha256sum hugo-geekdoc.tar.gz | grep -q 76210693e660ca8de370b31c954c050083760a8ddd30cded402d03d29000e1e9 || exit 1
     - mkdir -p ${CI_PROJECT_DIR}/themes/hugo-geekdoc
