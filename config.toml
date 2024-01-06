@@ -12,11 +12,10 @@
 # If you use go mod to install your theme, you must use the URL of the theme.
 # If your theme is in the themes directory, you just need to specify its name.
 #
-#theme = "ananke"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/thegeeklab/hugo-geekdoc"]
 
 baseurl = "https://s.toplist.cz/"
-title = "GitLab Pages and Hugo"
+title = "O TOPlist.cz"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
