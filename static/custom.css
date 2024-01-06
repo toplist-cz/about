@@ -9,3 +9,6 @@
 .gdoc-header .container {
     padding: .25rem;
 }
+body, h1, h2, h3 {
+    font-family: Helvetica,Arial,sans-serif;
+}

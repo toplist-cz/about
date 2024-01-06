@@ -1,4 +1,6 @@
-
+---
+title: "Osobní údaje"
+---
 Provozovatelem služby TOPlist je firma:
 
 **TOPlist s.r.o.**<br>
