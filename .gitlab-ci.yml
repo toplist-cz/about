@@ -42,7 +42,6 @@ default:
     - rm -f hugo-geekdoc.tar.gz
     - git submodule update --init --recursive
     - hugo mod init docs
-    - hugo mod get -u
     ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
     #- npm install postcss postcss-cli autoprefixer
 
