@@ -1,4 +1,3 @@
 ---
 title: "Dokumentace"
-geekdocFlatSection: true
 ---

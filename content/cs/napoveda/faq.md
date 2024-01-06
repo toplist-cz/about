@@ -9,7 +9,7 @@ menu: main
 Na této stránce se budeme snažit odpovídat na některé časté dotazy, které nám chodí. Odpovědi nejsou nijak uspořádány a budou postupně přibývat, jak se budou objevovat nové otázky. Ty můžete posílat na adresu helpdesk@toplist.cz.
 ## Je služba placená nebo zdarma?
 
-Služba je zdarma. Je možné přikoupit rozšířenou službu TOPlist Profi.
+Služba je zdarma. Je možné přikoupit rozšířenou službu [TOPlist Profi](https://profi.toplist.cz).
 ## Jaký je rozdíl mezi návštěvou a zhlédnutím?
 
 Hodnoty, které jsou měřeny, a způsob, jakým jsou zaznamenávány, je popsané v [metodice měření](metodika-mereni).
