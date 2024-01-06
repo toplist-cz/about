@@ -29,6 +29,14 @@ Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
+# Required to get well formatted code blocks
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+enableGitInfo = true
+
+geekdocPrivacyPolicy = "/napoveda/dokumentace/osobni-udaje"
+
 [markup]
   [markup.goldmark.renderer]
     # Needed for mermaid shortcode

@@ -1,3 +1,9 @@
+---
+title: "FAQ - často kladené otázky"
+type: page
+menu: main
+---
+
 ## Co je tohle za stránku?
 
 Na této stránce se budeme snažit odpovídat na některé časté dotazy, které nám chodí. Odpovědi nejsou nijak uspořádány a budou postupně přibývat, jak se budou objevovat nové otázky. Ty můžete posílat na adresu helpdesk@toplist.cz.
