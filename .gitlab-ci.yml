@@ -51,7 +51,7 @@ deploy:
   tags:
     - kvm
   script:
-    - hugo --minify
+    - hugo
     - rsync -rav --delete-after ./public gitlab@10.183.148.183:www/about
   artifacts:
     paths:
