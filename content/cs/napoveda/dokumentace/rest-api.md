@@ -7,9 +7,8 @@ resources:
 ---
 Pro přístup k datům, statistikám a správě podporuje TOPlist také rozhranní REST API. Jeho úvodní stránka je na adrese
 
-<center>
-<h1><a href="https://profi.toplist.cz/api/">https://profi.toplist.cz/api/</a></h1>
-</center>
+<h1><a style="margin:auto" href="https://profi.toplist.cz/api/">https://profi.toplist.cz/api/</a></h1>
+
 
 Dostupné metody jsou rozdělené do 4 skupin:
 ## web
