@@ -56,7 +56,7 @@ Jedná se vlastně o využití téměř všech parametrů:
 </a>
 ```
 POZOR: za čárkou po top.document.referrer je apostrof a uvozovka. Ne tři apostrofy !!! Ale lepší bude použít [formulář pro měřící kód](https://www.toplist.cz/code/).
-## aregistroval jsem stránku a přesto se u ní v žebříčku stále ukazuje 0 přístupů.
+## Zaregistroval jsem stránku a přesto se u ní v žebříčku stále ukazuje 0 přístupů.
 
 Samotná registrace nestačí pro měření. Je potřeba nějakým způsobem návštěvu zaznamenat. A k tomu slouží měřící kód, který musí být na stránce umístěn. Nejrychleji jej získáte vygenerováním v tomto formuláři.
 ## Má se měřící kód umístit na každou stránku nebo stačí jen na úvodní?
