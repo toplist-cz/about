@@ -42,10 +42,12 @@ enableRobotsTXT = true
     title = "Ananke"
     weight = 1
     contentDir = "content/cs"
-  [languages.en]
-    title = "Ananke English"
-    weight = 2
-    contentDir = "content/en"
+    languageName = "Česky"
+    languageCode = "cs-CZ"
+    languageLang = "cs"
+    languageLocale = "cs_CZ"
+    dateFormat = "02.01.2006"
+    timeFormat = "15:04"
 
 [sitemap]
   changefreq = "monthly"
