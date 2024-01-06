@@ -8,6 +8,7 @@
 
 .gdoc-header .container {
     padding: .25rem;
+    font-family: inherit;
 }
 body, h1, h2, h3 {
     font-family: Helvetica,Arial,sans-serif;
