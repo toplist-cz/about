@@ -1,10 +1,12 @@
 ---
-title: "Hugo and GitLab Pages"
+title: "Úvod"
 
-description: "A Hugo site built with GitLab Pages"
-cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
+
+# O TOPlist.cz
+
+Zde se budeme snažit shromažďovat různé informace o serveru TOPlist, jak aktuality v blogu, tak i celkovou nápovědu. Součástí TOPlistu je i rozšířená placená verze [TOPlist Profi](https://profi.toplist.cz), která poskytuje detailnější statistiky za delší časové období. Pokud by vám tu něco chybělo, dejte nám vědět a doplníme to.
+
 
 This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
 and [Hugo](https://gohugo.io), and can be built in under 1 minute.
