@@ -19,25 +19,33 @@ title = "O TOPlist.cz"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-languageCode = "en-us"
+languageCode = "cs-CZ"
 resourceDir = "../resources"
 relativeURLs = true
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "cs"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark.renderer]
+    # Needed for mermaid shortcode
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
+
 [languages]
-  [languages.en]
+  [languages.cs]
     title = "Ananke"
     weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Ananke Fr"
+    contentDir = "content/cs"
+  [languages.en]
+    title = "Ananke English"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
@@ -45,6 +53,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  geekdocLogo = "logo_64.png"
   text_color = ""
   author = ""
   favicon = ""
