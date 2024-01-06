@@ -9,7 +9,7 @@
 # - To change the theme, see
 #   https://gitlab.com/pages/hugo/-/blob/main/README.md#use-a-custom-theme.
 #
-image: debian:stable-slim
+image: debian:stable
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
