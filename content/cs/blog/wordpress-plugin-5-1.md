@@ -1,7 +1,7 @@
 ---
 title: "WordPress plugin 5.1"
 date: 2019-10-27T00:00:00+01:00
-type: blog
+type: "posts"
 author: "Pavel Francírek"
 ---
 Připravil sem novou verzi [pluginu pro WordPress](https://wordpress.org/plugins/toplist/). Změny jsou:

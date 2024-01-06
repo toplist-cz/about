@@ -1,6 +1,6 @@
 ---
 title: "Měření návštěvnosti bez cookies"
-type: "blog"
+type: "posts"
 date: "2021-12-03"
 author: "TOPlist"
 ---
