@@ -1,4 +1,5 @@
 ---
+title: Metodika měření
 type: page
 ---
 
@@ -18,7 +19,7 @@ Ukazuje z kolika různých počítačů přišli návštěvníci za určité obd
 
 Toto jsou hlavní veličiny, které TOPlist měří o návštěvnosti. Další hodnoty jsou doplňkové a umožňují další upřesnění informací o návštěvnících. Patří k nim informace o používaných prohlížečích, operačních systémech, domény návštěvníků, rozlišení a barevná hloubka monitorů ad.
 
-Další popis zobrazovaných hodnot naleznete také v Často kladených otázkách
+Další popis zobrazovaných hodnot naleznete také v [Často kladených otázkách](../faq).
 # Pojmy
 ## IP
 
