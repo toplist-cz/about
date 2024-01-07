@@ -1,5 +1,6 @@
 ---
 title: "Nastavení hesla"
+date: 2016-01-01T00:00:00+01:00
 ---
 Jeden z nejčastějších dotazů, které řešíme jsou otázky typu: ‘Jsem nový majitel webu a jak získám heslo, když nemám přístup k emailům v registraci’ nebo ‘Nepamatuju si, jaký email je registrovaný’. Nyní lze tuto situaci jednoduše řešit.
 
