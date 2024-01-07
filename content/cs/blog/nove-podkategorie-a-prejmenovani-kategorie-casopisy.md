@@ -1,6 +1,7 @@
 ---
 title: "Nové podkategorie a přejmenování kategorie Časopisy"
 date: 2023-10-17T00:00:00+01:00
+lastmod: 2023-10-17T00:00:00+01:00
 type: "posts"
 author: "Zuzana Machalová"
 ---

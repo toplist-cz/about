@@ -1,7 +1,8 @@
 ---
 title: "Měření návštěvnosti bez cookies"
 type: "posts"
-date: "2021-12-03"
+date: "2021-12-03T00:00:00+01:00"
+lastmod: "2021-12-03T00:00:00+01:00"
 author: "TOPlist"
 ---
 Vždy jsme kladli důraz na soukromí návštěvníků Vašich stránek. Nesledujeme je, nevytváříme jejich profily pro cílení reklamy, nezpracováváme jejich osobní data. Vytváříme statistiky, které jsou určeny pouze pro Vás, majitele a administrátory webových stránek. I proto jsme bez problému prošli kontrolou dodržování GDPR Úřadu pro ochranu osobních údajů. Samotné cookies se používají pouze k technickému rozlišení „návštěvy“ a „zhlédnutí“ viz [Metodika měření](../napoveda/dokumentace/metodika-mereni).

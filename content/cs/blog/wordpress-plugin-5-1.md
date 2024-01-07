@@ -1,6 +1,7 @@
 ---
 title: "WordPress plugin 5.1"
 date: 2019-10-27T00:00:00+01:00
+lastmod: 2019-10-27T00:00:00+01:00
 type: "posts"
 author: "Pavel Francírek"
 ---

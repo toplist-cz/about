@@ -1,6 +1,7 @@
 ---
 title: "Pomlčka místo adresy stránky"
 date: 2020-01-23T00:00:00+01:00
+lastmod: 2020-01-23T00:00:00+01:00
 author: "TOPlist"
 type: "posts"
 ---
