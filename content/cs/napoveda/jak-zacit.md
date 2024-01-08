@@ -1,12 +1,10 @@
 ---
-title: Jak začít
+title: Jak začít?
 date: 2020-01-01T00:00:00+01:00
 type: page
 menu: main
 ---
-# Jak začít s měřením návštěvnosti
-
-Stačí 3 jednoduché kroky:
+K měření návštěvnosti stačí 3 jednoduché kroky:
 
 1. Pokud chcete měřit návštěvnost vaší stránky, je potřeba se [zaregistrovat](https://www.toplist.cz/register/). Registrace i provoz služby TOPlist je zdarma.
 2. Po registraci je emailem zaslán měřící kód. Pokud nevyhovuje nebo chcete použít jiné počítadlo, můžete vytvořit jiný měřící kód ve [formuláři](https://www.toplist.cz/code/).
