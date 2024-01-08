@@ -22,5 +22,8 @@ body, h1, h2, h3 {
     text-decoration: none;
 }
 ul.gdoc-nav__list {
-  padding: 4px;
+  padding: 0.2rem;
+}
+.gdoc-nav__list li {
+  margin: .1rem 0;
 }
