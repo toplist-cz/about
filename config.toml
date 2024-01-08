@@ -14,7 +14,7 @@
 #
 theme = ["hugo-geekdoc"]
 
-baseurl = "https://s.toplist.cz/"
+baseurl = "https://t.toplist.cz/"
 title = "O TOPlist.cz"
 contentdir    = "content"
 layoutdir     = "layouts"

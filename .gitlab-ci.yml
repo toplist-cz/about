@@ -57,7 +57,7 @@ deploy:
     - kvm
   script:
     - hugo
-    - rsync -rav --delete-after ./public gitlab@10.183.148.183:www/about
+    - rsync -rav --delete-after ./public/ gitlab@10.183.148.183:www/t
   artifacts:
     paths:
       - public
