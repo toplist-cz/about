@@ -17,3 +17,10 @@
 body, h1, h2, h3 {
     font-family: Helvetica,Arial,sans-serif;
 }
+.gdoc-nav__entry:hover, .gdoc-nav__entry.is-active {
+    background-color: #ffffff;
+    text-decoration: none;
+}
+.gdoc-nav__list {
+  padding: 4px;
+}
