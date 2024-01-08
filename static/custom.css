@@ -21,6 +21,6 @@ body, h1, h2, h3 {
     background-color: #ffffff;
     text-decoration: none;
 }
-.gdoc-nav__list {
+ul.gdoc-nav__list {
   padding: 4px;
 }
