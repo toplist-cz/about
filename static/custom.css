@@ -1,5 +1,6 @@
 :root,
 :root[color-theme="light"] {
+  --background: #eee;
   --header-background: #438eb9;
   --header-font-color: #ffffff;
   --footer-background: #e9e9e9;
