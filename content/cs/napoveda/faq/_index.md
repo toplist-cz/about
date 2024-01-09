@@ -3,6 +3,10 @@ title: "FAQ - často kladené otázky"
 date: 2019-01-01T00:00:00+01:00
 type: page
 menu: main
+resources:
+    - name: category
+      src: "category.png"
+      title: "Žebříček kategorie"
 ---
 
 ## Co je tohle za stránku?
@@ -29,6 +33,8 @@ ID získáte až po registraci. Zjistíte ho tak, že nejdříve najdete Vaši s
 ## Co se vlastně v žebříčku zobrazuje?
 
 Při kliknutí na kategorii se zobrazí seznam, který vypadá přibližně takto:
+
+{{< img name="category" lazy=true size="small" >}}
 
 1. Pozice serveru v dané kategorii. Prvních 10 serverů má pořadí označené ikonkou, ostatní písmem. Počítá se podle průměrné návštěvnosti za posledních 7 dní.
 2. Šipka znázorňuje tendenci návštěvnosti (zelená – při růstu nad 10%, modrá – stagnace, červená – pokles o víc než 10%)
