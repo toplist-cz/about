@@ -33,7 +33,7 @@ ID získáte až po registraci. Zjistíte ho tak, že nejdříve najdete Vaši s
 ## Co se vlastně v žebříčku zobrazuje?
 Při kliknutí na kategorii se zobrazí seznam, který vypadá přibližně takto:
 
-{{< img name="category" lazy=true size="small" >}}
+{{< img name="category" lazy=true size="medium" >}}
 
 1. Pozice serveru v dané kategorii. Prvních 10 serverů má pořadí označené ikonkou, ostatní písmem. Počítá se podle průměrné návštěvnosti za posledních 7 dní.
 2. Šipka znázorňuje tendenci návštěvnosti (zelená – při růstu nad 10%, modrá – stagnace, červená – pokles o víc než 10%)
@@ -82,16 +82,16 @@ V každém případě můžete celou historii návštěvnosti od registrace v TO
 Nejdřív je potřeba odstranit měřící kód ze stránek. Poté lze stránku odstranit – odkaz Smazat v pravém menu v podrobných statistikách. Pokud byl ještě nalezen měřící kód (tj. v uplynulých dvou dnech došlo k zaznamenání návštěvy) je místo smazaní vypsán seznam těchto stránek pro kontrolu, zda se na nich měřící kód skutečně nenalézá.
 
 ## V měřených doménách se ukazuje nějaká cizí, co mám dělat?
-„Měřené domény“ ukazují adresy, na kterých je umístěn měřící kód a které mají alespoň 10% podíl na celkové návštěvnosti. Data mají historii 2 dny, takže se každá změna projeví až po jejich uplynutí. Pokud se tam objeví cizí doména, bude na ni patrně umístěn kód s vaším ID. Konkrétní stránky lze dohledat ve statistice Vstupní stránky. Pokud nebude možná domluva s provozovatelem těchto stránek, lze využít Bezpečnostní kód k zamezení počítání z cizích stránek.
+„Měřené domény“ ukazují adresy, na kterých je umístěn měřící kód a které mají alespoň 10% podíl na celkové návštěvnosti. Data mají historii 2 dny, takže se každá změna projeví až po jejich uplynutí. Pokud se tam objeví cizí doména, bude na ni patrně umístěn kód s vaším ID. Konkrétní stránky lze dohledat ve statistice Vstupní stránky. Pokud nebude možná domluva s provozovatelem těchto stránek, lze využít [Bezpečnostní kód](tipy-a-triky#bezpecnostni-kod) k zamezení počítání z cizích stránek.
 
 ## Po převodu stránek na SSL(HTTPS) přestalo měření fungovat
-V měřícím kódu stačí nahradit znaky „http://“ za „https://“. Případně znovu vygenerujte měřící kód. Nyní se vytvoří verze, která už obsahuje tuto úpravu.
+V měřícím kódu stačí nahradit znaky `http://` za `https://`. Případně znovu vygenerujte měřící kód. Nyní se vytvoří verze, která už obsahuje tuto úpravu.
 
 ## Přesunuli jsme stránky na jinou adresu. Co máme dělat?
 Nemusíte dělat nic 🙂 Pokud se jedná jen o změnu adresy a stránky stále obsahují stejný měřící kód (se stejným ID), bude měření pokračovat i na nové adrese. Můžete upravit adresu v editaci záznamu na TOPlistu, aby odkaz směřoval na správnou adresu, ale na samotné měření to nemá vliv.
 
 ## Splňuje TOPlist podmínky GDPR?
-Ano. Informace o získavaných osobních údajích, důvody a lhůty pro jejich zpracování naleznete na stránce Osobní údaje.
+Ano. Informace o získavaných osobních údajích, důvody a lhůty pro jejich zpracování naleznete na stránce [Osobní údaje](osobni-udaje).
 
 # Proč je ve statistikách místo adresy pomlčka?
 Pomlčka místo adresy znamená, že prohlížeč návštěvníka nepředal informaci, jakou stránku si prohlíží. To se děje když je stránka zabezpečená pomocí TLS (https), ale je na ní ještě starý měřící kód, který měřil přes http. Jednoduché řešení je prostě v měřícím kódu změnit http:// za https:// (takže tam bude https://toplist.cz atd.). Nebo lze vygenerovat a použít nový měřící kód, který už obsahuje https rovnou. Na adrese https://www.toplist.cz/code/
