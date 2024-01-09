@@ -47,17 +47,16 @@ enableGitInfo = true
   lastmod = ["lastmod", "date", ":git", "publishDate"]
   publishDate = ["publishDate", "lastmod", "date", ":git"]
 
-[languages]
-  [languages.cs]
-    title = "O TOPlist.cz"
-    weight = 1
-    contentDir = "content/cs"
-    languageName = "Česky"
-    languageCode = "cs_CZ"
-    languageLang = "cs"
-    languageLocale = "cs_CZ"
-    dateFormat = "1. January 2006"
-    timeFormat = "15:04"
+[languages.cs]
+  title = "O TOPlist.cz"
+  weight = 1
+  contentDir = "content/cs"
+  languageName = "Česky"
+  languageCode = "cs_CZ"
+  languageLang = "cs"
+  languageLocale = "cs_CZ"
+  dateFormat = "1. January 2006"
+  timeFormat = "15:04"
 
 [sitemap]
   changefreq = "monthly"

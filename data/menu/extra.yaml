@@ -1,5 +1,7 @@
 ---
 header:
-  - name: Kontakt
+  - name: 
+      cs: Kontakt
+      en: Contact
     ref: /kontakt/
     external: false
