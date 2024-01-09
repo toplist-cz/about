@@ -26,4 +26,5 @@ ul.gdoc-nav__list {
 }
 .gdoc-nav__list li {
   margin: .1rem 0;
+  padding: .2rem;
 }
