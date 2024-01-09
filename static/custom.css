@@ -21,10 +21,10 @@ body, h1, h2, h3 {
     background-color: #ffffff;
     text-decoration: none;
 }
-ul.gdoc-nav__list {
-  padding: 0.2rem;
-}
 .gdoc-nav__list li {
-  margin: .1rem 0;
-  padding: .2rem;
+  margin: .1rem;
+}
+
+.gdoc-nav__entry, .gdoc-language__entry {
+  padding: 0.2rem;
 }
