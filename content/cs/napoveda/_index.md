@@ -1,8 +1,8 @@
 ---
 title: "Nápověda"
 ---
-{{ <toc> }}
-#Co je TOPlist
+{{< toc >}}
+# Co je TOPlist
 
 na TOPlist lze pohlížet třemi různými způsoby:
 
