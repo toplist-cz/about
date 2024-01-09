@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-type: "blog"
+type: "posts"
 ---
 {{< toc >}}
