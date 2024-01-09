@@ -19,7 +19,7 @@ title = "O TOPlist.cz"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-languageCode = "cs-CZ"
+languageCode = "cs_CZ"
 resourceDir = "../resources"
 relativeURLs = true
 
