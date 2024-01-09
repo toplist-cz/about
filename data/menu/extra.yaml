@@ -1,8 +1,0 @@
----
-header:
-  - name: 
-      cs: Kontakt
-      en: Contact
-    ref: /kontakt.md
-    external: false
-    icon: ''
