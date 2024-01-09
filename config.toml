@@ -43,6 +43,10 @@ enableGitInfo = true
     startLevel = 1
     endLevel = 9
 
+[frontmatter]
+  lastmod = ["lastmod", "date", ":git", "publishDate"]
+  publishDate = ["publishDate", "lastmod", "date", ":git"]
+
 [languages]
   [languages.cs]
     title = "O TOPlist.cz"
