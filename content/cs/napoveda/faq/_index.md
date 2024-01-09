@@ -18,7 +18,7 @@ Na této stránce se budeme snažit odpovídat na některé časté dotazy, kter
 Služba je zdarma. Je možné přikoupit rozšířenou službu [TOPlist Profi](https://profi.toplist.cz).
 
 ## Jaký je rozdíl mezi návštěvou a zhlédnutím?
-Hodnoty, které jsou měřeny, a způsob, jakým jsou zaznamenávány, je popsané v [metodice měření](dokumentace/metodika-mereni/).
+Hodnoty, které jsou měřeny, a způsob, jakým jsou zaznamenávány, je popsané v [metodice měření]({{ ref "../dokumentace/metodika-mereni.md" }}).
 
 ## Co je to „reload“?
 „Reload“ znamená, že bylo přistoupeno podruhé za sebou ze stejného IP a není počítán do celkového počtu přístupů (aby si někdo jednoduše „nenaklikal“ větší návštevnost). Tj. nevadí, že používáte tlačítko „obnovit“, tento pokus by měl být ignorován.
