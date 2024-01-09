@@ -53,10 +53,11 @@ enableGitInfo = true
   contentDir = "content/cs"
   languageName = "Česky"
   languageCode = "cs_CZ"
-  languageLang = "cs"
-  languageLocale = "cs_CZ"
-  dateFormat = "1. January 2006"
-  timeFormat = "15:04"
+  [languages.cs.params]
+    languageLang = "cs"
+    languageLocale = "cs_CZ"
+    dateFormat = "1. January 2006"
+    timeFormat = "15:04"
 
 [sitemap]
   changefreq = "monthly"

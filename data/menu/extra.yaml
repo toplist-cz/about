@@ -3,5 +3,5 @@ header:
   - name: 
       cs: Kontakt
       en: Contact
-    ref: /kontakt/
+    ref: /kontakt.md
     external: false
