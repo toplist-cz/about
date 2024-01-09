@@ -19,11 +19,11 @@ title = "O TOPlist.cz"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-languageCode = "cs"
+languageCode = "cs_CZ"
 resourceDir = "../resources"
 relativeURLs = true
 
-DefaultContentLanguage = "cs"
+defaultContentLanguage = "cs"
 SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = ""
@@ -53,10 +53,10 @@ enableGitInfo = true
     weight = 1
     contentDir = "content/cs"
     languageName = "Česky"
-    languageCode = "cs"
+    languageCode = "cs_CZ"
     languageLang = "cs"
-    languageLocale = "cs"
-    dateFormat = "02.01.2006"
+    languageLocale = "cs_CZ"
+    dateFormat = "1. January 2006"
     timeFormat = "15:04"
 
 [sitemap]
