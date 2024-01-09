@@ -49,9 +49,9 @@ enableGitInfo = true
     weight = 1
     contentDir = "content/cs"
     languageName = "Česky"
-    languageCode = "cs-CZ"
+    languageCode = "cs"
     languageLang = "cs"
-    languageLocale = "cs_CZ"
+    languageLocale = "cs"
     dateFormat = "02.01.2006"
     timeFormat = "15:04"
 
