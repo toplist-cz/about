@@ -59,6 +59,7 @@ deploy:
     - kvm
   script:
     - hugo
+    - hugo --config hugo-blog.toml
     - rsync -rav --delete-after ./public/ gitlab@10.183.148.183:www/t
   artifacts:
     paths:
