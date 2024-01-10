@@ -2,7 +2,7 @@ theme = ["hugo-geekblog"]
 
 baseurl = "https://t.toplist.cz/blog/"
 title = "O TOPlist.cz"
-contentdir    = "content/cs/blog"
+contentdir    = "blog"
 publishdir    = "public/blog"
 languageCode = "cs"
 

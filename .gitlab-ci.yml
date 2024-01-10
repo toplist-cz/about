@@ -60,7 +60,8 @@ deploy:
   script:
     - hugo
     # rename source directory blog to posts
-    - mv content/cs/blog content/cs/posts
+    - mkdir -p blog
+    - mv content/cs/blog blog/posts
     - hugo --config hugo-blog.toml
     - rsync -rav --delete-after ./public/ gitlab@10.183.148.183:www/t
   artifacts:
