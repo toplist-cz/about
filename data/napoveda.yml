@@ -1,0 +1,12 @@
+- title: Nápověda
+  pages:
+    - title: Jak začít
+    - title: FAQ - Často kladené otázky
+    - title: Dokumentace
+      pages:
+        - title: Metodika měření
+        - title: Osobní údaje
+        - title: REST API
+    - title: Kód na stránku
+    - title: Nastavení hesla
+    - title: Tipy a triky
