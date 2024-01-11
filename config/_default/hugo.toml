@@ -1,6 +1,6 @@
 title = "O TOPlist.cz"
 copyright = "TOPlist.cz"
-paginate = 9
+paginate = 12
 enableGitInfo = true
 
 # additional settings
@@ -18,8 +18,8 @@ ignoreErrors = ["error-remote-getjson"]
 timeout = "180s"
 
 languageCode = "cs"
-defaultContentLanguage = "cs"
-defaultContentLanguageInSubdir = false
+#defaultContentLanguage = "cs"
+#defaultContentLanguageInSubdir = false
 
 [outputFormats.REDIR]
 mediaType = "text/netlify"
