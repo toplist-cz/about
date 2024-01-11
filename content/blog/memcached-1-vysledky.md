@@ -1,5 +1,5 @@
 ---
-title: Memcached – 1. výsledkyu
+title: Memcached – 1. výsledky
 type: posts
 date: 2005-02-07
 author: Pavel Francírek

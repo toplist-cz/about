@@ -10,6 +10,7 @@ To hlavní už zmínil [Yuhů](http://www.jakpsatweb.cz/weblog/archiv/2004-02.ht
 Jinak se skutečně neměří na unikátní uživatele, ale návštěvy. Čímž, jak Dušan zmiňuje, je zohledněn nejen celkový počet, ale též aktivita zákazníků jednotlivých providerů.
 K jeho tabulce za neděli připojuji pro ukázku TOP10 ze včerejška (pondělí 9.2.2004).
 
+{{< table class="table-striped" >}}
 | Doména	| Podíl |
 |----------|-----|
 |  1. vol.cz	|4.72 %|
@@ -22,5 +23,6 @@ K jeho tabulce za neděli připojuji pro ukázku TOP10 ze včerejška (pondělí
 |  8. indos.cz	|2.08 %|
 |  9. contactel.cz	|1.89 %|
 | 10. karneval.cz	|1.29 %|
+{{< /table >}}
 
 Rozdíl je vidět hlavně v poklesu podílu velkých providerů ve prospěch připojení ze škol a firem.
