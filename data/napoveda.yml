@@ -1,6 +1,8 @@
 - title: Nápověda
   link: /napoveda/
   pages:
+    - title: Co je TOPlist?
+      link: /napoveda/co-je-toplist/
     - title: Jak začít?
       link: /napoveda/jak-zacit/
     - title: FAQ - Často kladené otázky
