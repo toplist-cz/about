@@ -1,9 +1,8 @@
 ---
 title: "Nápověda"
-type: docs
+type: page
 menu: main
 weight: 10
-headless: true
 ---
 # Co je TOPlist
 
