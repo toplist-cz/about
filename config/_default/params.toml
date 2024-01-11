@@ -37,9 +37,9 @@
     checkVersion = false
 
 [home]
-    sections = ["posts"]
+    sections = ["blog"]
     fullCover = false
-    centerHeadline = false
+    centerHeadline = true
     style = ""
 
 [navigation]

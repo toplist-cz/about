@@ -1,5 +1,5 @@
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
+title = "O TOPlist.cz"
+copyright = ""
 paginate = 9
 enableGitInfo = true
 
@@ -17,8 +17,8 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "cs"
+defaultContentLanguage = "cs"
 defaultContentLanguageInSubdir = false
 
 [outputFormats.REDIR]
