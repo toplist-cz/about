@@ -1,4 +1,5 @@
 ---
+title: iOS 13.1 je už v Česku nejpoužívanějš
 type: posts
 date: 2019-10-14
 author: TOPlist
@@ -7,7 +8,7 @@ tags:
 ---
 Nové globální statistiky TOPlistu za minulý týden (7. – 13. říjen 2019) ukazují, jak rychle probíhá aktualizace nové verze iOS. Za tři týdny od svého uvedení (24. září) se stává nejpoužívanější verzí mobilního operačního systému firmy Apple (42,48%).
 
-
+{{< image src="img/ios13.png" >}}
 
 Ve statistikách lze nálezt i další informace. Třeba podíly prohlížečů a to i rozděleně pro mobily a stolní počítače. Nebo verze Windows, kde je stále vidět vysoký podíl verze 7 a dokonce se ukazují i XP.
 

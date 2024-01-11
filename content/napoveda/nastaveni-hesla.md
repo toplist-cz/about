@@ -10,6 +10,6 @@ Pak stačí nechat zkontrolovat, že obsahuje klíč. A pokud ano, tak umožním
 
 Konkrétní příklad:
 
-{{< image src="img/16939385_10154081065916403_8651534652836594531_n.png" caption="Formulář pro obnovu hesla" >}}}
+{{< image src="img/16939385_10154081065916403_8651534652836594531_n.png" caption="Formulář pro obnovu hesla" >}}
 
 Pro TOPlist je nastavení hesla na adrese https://www.toplist.cz/password/reset/1. Po zmáčknutí tlačítka to vypíše požadovanu adresu (každý návštěvník uvidí jinou). Pro náš příklad to může být třeba: `www.toplist.cz/jvdrv.html`. A také klíč *WY3NqZRsbZQPfHbGksyOE7b2SMGLWVU7*. Takže stačí, abych vytvořil soubor na požadováné adrese. A po zkontrolování bude možné heslo změnit.
