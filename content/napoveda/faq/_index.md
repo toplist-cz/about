@@ -1,6 +1,7 @@
 ---
 title: "FAQ - často kladené otázky"
 type: docs
+menu: docs
 ---
 
 

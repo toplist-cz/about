@@ -1,7 +1,10 @@
 ---
 title: Jak začít?
 type: docs
-menu: main
+menu:
+    - main
+      weight: 30
+    - docs
 ---
 K měření návštěvnosti stačí 3 jednoduché kroky:
 

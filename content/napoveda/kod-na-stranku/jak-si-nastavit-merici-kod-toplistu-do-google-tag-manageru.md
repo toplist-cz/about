@@ -1,5 +1,7 @@
 ---
 title: "Jak si nastavit měřící kód TOPlistu do Google Tag Manageru"
+type: docs
+menu: docs
 ---
 V případě, že využíváte Google Tag Manager, můžete jednoduše vložit měřící kód (javascript) TOPlistu do Google Tag Manageru, aniž byste museli zasahovat přímo do kódu Vaší stránky.
 #Jak na to

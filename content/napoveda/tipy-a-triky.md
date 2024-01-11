@@ -1,6 +1,7 @@
 ---
 title: "Tipy a triky"
 type: docs
+menu: docs
 ---
 # SSL
 Pokud potřebujete měřit i stránky zabezpečené pomocí protokolu SSL, stačí upravit měřící kód tak, aby použival tento protokol (https://). Nebo lze vygenerovat a použít nový kód, který už SSL používá.

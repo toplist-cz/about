@@ -1,6 +1,8 @@
 ---
 title: Kód na stránku
 date: 2017-01-01T00:00:00+01:00
+type: docs
+menu: docs
 ---
 Krátké návody, jak přidat měřící kód na různé stránky. Pokud máte nějaký podobný návod, pošlete mi jej na pavel@toplist.cz.
 

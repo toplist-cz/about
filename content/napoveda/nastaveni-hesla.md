@@ -1,6 +1,7 @@
 ---
 title: "Nastavení hesla"
 type: docs
+menu: docs
 ---
 Jeden z nejčastějších dotazů, které řešíme jsou otázky typu: ‘Jsem nový majitel webu a jak získám heslo, když nemám přístup k emailům v registraci’ nebo ‘Nepamatuju si, jaký email je registrovaný’. Nyní lze tuto situaci jednoduše řešit.
 
