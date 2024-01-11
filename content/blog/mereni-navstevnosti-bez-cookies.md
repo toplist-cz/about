@@ -9,7 +9,7 @@ Vždy jsme kladli důraz na soukromí návštěvníků Vašich stránek. Nesledu
 
 Během letošního roku byl vyvinutý nový způsob rozlišování. Cílem bylo zcela odstranit nutnost použití cookies. Změna byla úspěšná a podle dosavadních testů je rozdíl v naměřených hodnotách pod úrovní statistické chyby. Měřící kód na Vašich stránkách není potřeba měnit a novinka bude automaticky aktivní u všech stránek 1. ledna 2022.
 
-Zároveň se trochu změní grafika ikon, která (konečně :)) bude ladit se změnou grafiky samotného webu. Zde je ukázka upravených ikon. Jedna z verzí, s nápisem „bez cookies“, Vám umožní informovat Vaše návštěvníky, že si vážíte jejich soukromí a používáte měření, které to respektuje.
+Zároveň se trochu změní grafika ikon, která (konečně 🙂) bude ladit se změnou grafiky samotného webu. Zde je ukázka upravených ikon. Jedna z verzí, s nápisem „bez cookies“, Vám umožní informovat Vaše návštěvníky, že si vážíte jejich soukromí a používáte měření, které to respektuje.
 
 Počítadla:
 

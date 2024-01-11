@@ -1,4 +1,3 @@
 ---
-title: Nápověda
 headless: true
 ---
