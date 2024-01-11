@@ -37,7 +37,7 @@
     checkVersion = false
 
 [home]
-    # sections = ["posts"]
+    sections = ["posts"]
     fullCover = false
     centerHeadline = false
     style = ""

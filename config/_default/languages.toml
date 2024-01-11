@@ -1,6 +1,6 @@
 [cs]
     languageName = "Česky"
-    contentDir = "content/cs"
+    contentDir = "content"
     weight = 1
     [cs.params.head]
         tagline = "O TOPlist.cz"
