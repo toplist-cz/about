@@ -1,7 +1,6 @@
 ---
 title: REST API
 type: docs
-menu: docs
 ---
 Pro přístup k datům, statistikám a správě podporuje TOPlist také rozhranní REST API. Jeho úvodní stránka je na adrese
 
