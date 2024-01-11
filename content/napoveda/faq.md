@@ -26,7 +26,7 @@ ID získáte až po registraci. Zjistíte ho tak, že nejdříve najdete Vaši s
 ## Co se vlastně v žebříčku zobrazuje?
 Při kliknutí na kategorii se zobrazí seznam, který vypadá přibližně takto:
 
-{{< image src="category.png" mode="true" caption="Žebříček kategorie" >}}
+{{< image src="img/category.png" mode="true" caption="Žebříček kategorie" >}}
 
 1. Pozice serveru v dané kategorii. Prvních 10 serverů má pořadí označené ikonkou, ostatní písmem. Počítá se podle průměrné návštěvnosti za posledních 7 dní.
 2. Šipka znázorňuje tendenci návštěvnosti (zelená – při růstu nad 10%, modrá – stagnace, červená – pokles o víc než 10%)
