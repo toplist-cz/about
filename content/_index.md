@@ -1,6 +1,5 @@
 ---
 title: O TOPlist.cz
-description: Zde se budeme snažit shromažďovat různé informace o serveru TOPlist, jak aktuality v blogu, tak i celkovou nápovědu. Součástí TOPlistu je i rozšířená placená verze TOPlist Profi, která poskytuje detailnější statistiky za delší časové období. Pokud by vám tu něco chybělo, dejte nám vědět a doplníme to.
 actions:
   blog:
     url: "/blog/"
@@ -18,3 +17,4 @@ actions:
     icon: "fas chart-bar"
     weight: 30
 ---
+Zde se budeme snažit shromažďovat různé informace o serveru TOPlist, jak aktuality v blogu, tak i celkovou nápovědu. Součástí TOPlistu je i rozšířená placená verze TOPlist Profi, která poskytuje detailnější statistiky za delší časové období. Pokud by vám tu něco chybělo, dejte nám vědět a doplníme to.
