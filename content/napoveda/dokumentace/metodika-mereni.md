@@ -1,6 +1,6 @@
 ---
 title: Metodika měření
-type: page
+type: docs
 ---
 # Jak se měří?
 K měření návštěvnosti sledované stránky se používá kód, který je nutné na ni umístit (další informace viz [Jak začít?](/napoveda/jak-zacit/)). Jedná se vlastně o obrázek (může to být buď standardní ikona o rozměrech 88×31 bodů nebo „neviditelný“ bod o velikosti 1×1 bod). Z toho plyne určitá možná nepřesnost měření, způsobená např. vypnutým zobrazováním grafiky na straně návštěvníka. Na druhou stranu to daleko lépe odráží např. reklamní možnosti plochy (komu se nezobrazí ikona TOPlistu, tomu se nezobrazí ani reklamní banner). Navíc lze toto částečně eliminovat současným použitím i textového počítadla, které systém TOPlist také nabízí.
