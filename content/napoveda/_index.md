@@ -1,6 +1,6 @@
 ---
 title: "Nápověda"
-type: page
+type: docs
 menu: main
 weight: 10
 ---

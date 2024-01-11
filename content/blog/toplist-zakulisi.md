@@ -18,7 +18,7 @@ Na TOPlistu mi databáze běží na IBM xSeries 345. V konfiguraci 2xXeon 3GHz, 
 
 Na serverovně jsem ho zkusil vyfotit na mobilu. Když jsem to viděl, tak jsem si říkal, že tam někdy musím vzít digiták. Ale nakonec jsem se rozhodl pro tuhle, protože je taková autentická („Proč jsou vždycky záběry UFO rozmazaný?“ Hellboy). Dokonce se mi podařila stihnout zachytit i rozsvícená LEDka disku :-). Chtěl jsem původně všechny tři, ale po asi dvaceti pokusech jsem byl rád aspoň za tu jednu. Je tam vidět i jeden z webserverů, ale o těch třeba až jindy.
 
-{{< image src="/img/31473914_a21f892513.png" wrapper="col-10 mx-auto" >}}
+{{< image src="/img/31473914_a21f892513.jpg" wrapper="col-10 mx-auto" >}}
 
 Takže k těm diskům. Někdy v půlce července odešel jeden z disků v poli. Díky RAIDu 5 vše běželo. Během dvou dnů IBM poslala nový a vyměnil se. Ale přecejen to bylo trochu nervoznější období, protože jak píše Terry Pratchett, jestli má něco pravděpodobnost jedna ku miliónu, můžete si být jistí, že se to stane (tedy v případě, že je to něco nepřijemného). Rozhodl jsem se proto využít jednu z funkcí, kterými se liší skutečný RAID řadič od toho, který za něj vydávají výrobci motherboardů. Přidal jsem hot-spare disk. Nyní je to ten vlevo dole.
 
