@@ -6,7 +6,7 @@
 - id: read
   translation: "čtení"
 - id: minutesShort
-  translation: "min"
+  translation: "min."
 - id: words
   translation: "slov"
 - id: photoFull
@@ -24,7 +24,7 @@
 - id: articles
   translation: "Články"
 - id: more
-  translation: "Další {{ . }}"
+  translation: "Další ..."
 - id: emptyList
   translation: "Články nenalezeny"
 - id: emptyTags
