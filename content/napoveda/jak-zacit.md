@@ -1,6 +1,6 @@
 ---
 title: Jak začít?
-type: page
+type: docs
 menu: main
 ---
 K měření návštěvnosti stačí 3 jednoduché kroky:
