@@ -29,11 +29,12 @@ Web TOPlist používá pro přihlášení ID stránky a uživatelem zvolené hes
 
 Funkční cookies jsou použity pro technické zaznamenání nastavení: (přístup bez nutnosti opakovaného zadání hesla, zapamatování zvolených statistik).
 
-{{< table >}}
+{{< table class="table-striped" >}}
 |identifikátor         |doba platnosti                 |popis použití                                                                  |
+|:---------------------|:------------------------------|:------------------------------------------------------------------------------|
 |statList              |14 dní                         |zapamatování výběru zobrazených statistik a jejich předvolení při dalším výběru|
 |session               |sezení (do ukončení prohlížeče)|zapamatování hesla po přihlášení, aby nebylo nutné jej znovu zadávat           |
-|<různý dle ID stránky>|14 dní                         |zapamatovat si, že pro přístup do statistik nemá být vyžadováno heslo          |
+|různý dle ID stránky  |14 dní                         |zapamatovat si, že pro přístup do statistik nemá být vyžadováno heslo          |
 {{< /table >}}
 
 I pro tyto údaje platí, že Provozovatel neuchovává, nezískává ani nezpracovává dodatečné informace za účelem identifikace subjektu údajů.

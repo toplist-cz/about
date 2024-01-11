@@ -6,10 +6,9 @@ author: "TOPlist"
 type: "posts"
 ---
 # Stručně
-
 Pokud se ve statistikách na TOPlistu místo adresy měřené stránky objevuje pomlčka –, stačí v měřícím kódu změnit *http://* za *https://*
-# Delší povídání
 
+# Delší povídání
 Nové prohlížeče nepředávají informaci o navštívené stránce (tzv. referer) v případě, že je stránka na šifrovaném spojení (HTTPS) a měřící prvek takové spojení nemá (má jen HTTP). Ostatní případy (obojí stejné, nebo stránka HTTP a měření HTTPS) stále fungují.
 Měřící kód TOPlistu je proto od roku 2012 vytvářen s odkazem přes HTTPS.
 
