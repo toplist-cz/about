@@ -13,5 +13,5 @@ actions:
   profi:
     url: "https://gethinode.com/docs"
     title: "Profi"
-    icon: "fas chat-bar"
+    icon: "fas chart-bar"
 ---
