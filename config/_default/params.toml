@@ -137,8 +137,8 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
-    locale = "en-US"
+    name = "TOPlist s.r.o."
+    locale = "cs"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     github = "https://github.com/gethinode/hinode"
