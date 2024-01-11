@@ -31,14 +31,16 @@
   translation: "Tagy nenalezeny"
 
 # Languages
+- id: lang_cs
+  translation: "Česky"
 - id: lang_de
-  translation: "German"
+  translation: "Německy"
 - id: lang_en
-  translation: "English"
+  translation: "Anglicky"
 - id: lang_nl
-  translation: "Dutch"
+  translation: "Dánsky"
 - id: lang_fr
-  translation: "French"
+  translation: "Francouzsky"
 
 # Sharing
 - id: shareLink
@@ -132,7 +134,7 @@
 - id: show
   translation: "Ukázat"
 - id: comments
-  translation: "Komentáře"" 
+  translation: "Komentáře"
 
 # Arguments
 - id: name
