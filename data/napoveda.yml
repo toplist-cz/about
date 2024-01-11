@@ -1,12 +1,22 @@
 - title: Nápověda
+  link: /napoveda/
   pages:
     - title: Jak začít
+      link: /napoveda/jak-zacit/
     - title: FAQ - Často kladené otázky
+      link: /napoveda/faq/
     - title: Dokumentace
+      link: /napoveda/dokumentace/
       pages:
         - title: Metodika měření
+          link: /napoveda/dokumentace/metodika-mereni/
         - title: Osobní údaje
+          link: /napoveda/dokumentace/osobni-udaje/
         - title: REST API
+          link: /napoveda/dokumentace/rest-api/
     - title: Kód na stránku
+      link: /napoveda/kod-na-stranku/
     - title: Nastavení hesla
+      link: /napoveda/nastaveni-hesla/
     - title: Tipy a triky
+      link: /napoveda/tipy-a-triky/
