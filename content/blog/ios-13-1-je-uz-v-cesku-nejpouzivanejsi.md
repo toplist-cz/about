@@ -8,7 +8,7 @@ tags:
 ---
 Nové globální statistiky TOPlistu za minulý týden (7. – 13. říjen 2019) ukazují, jak rychle probíhá aktualizace nové verze iOS. Za tři týdny od svého uvedení (24. září) se stává nejpoužívanější verzí mobilního operačního systému firmy Apple (42,48%).
 
-{{</* image src="/img/ios13.png" wrapper="col-6 mx-auto" caption="iOS 13.1" */>}}
+{{< image src="/img/ios13.png" wrapper="col-6 mx-auto" caption="iOS 13.1" >}}
 
 ![iOS 13.1](/img/ios13.png)
 
