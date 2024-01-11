@@ -1,5 +1,6 @@
 ---
 title: O TOPlist.cz
+thumbnail: /img/logo_icon.svg
 actions:
   blog:
     url: "/blog/"
