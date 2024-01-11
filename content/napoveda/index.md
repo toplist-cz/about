@@ -1,5 +1,5 @@
 ---
-title: "Co je TOPlist"
+title: "Nápověda"
 type: docs
 ---
 # Co je TOPlist
