@@ -1,7 +1,6 @@
 ---
 title: "Nápověda"
 type: docs
-menu: main
 ---
 # Co je TOPlist
 
