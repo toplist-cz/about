@@ -1,9 +1,7 @@
 ---
-title: "Nápověda"
+title: "Co je TOPlist"
 type: docs
 ---
-# Co je TOPlist
-
 na TOPlist lze pohlížet třemi různými způsoby:
 
 ## Měření návštěvnosti
