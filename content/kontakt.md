@@ -1,6 +1,8 @@
 ---
 title: Kontakt
 menu: main
+weight: 30
+type: docs
 ---
 # TOPlist s.r.o.
 nám. Dr. Václava Holého 1054/13, 180 00 Praha 8
