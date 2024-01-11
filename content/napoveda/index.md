@@ -2,6 +2,7 @@
 title: "Nápověda"
 type: docs
 menu: main
+weight: 10
 ---
 # Co je TOPlist
 
