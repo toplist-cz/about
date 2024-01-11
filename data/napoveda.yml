@@ -16,6 +16,9 @@
           link: /napoveda/dokumentace/rest-api/
     - title: Kód na stránku
       link: /napoveda/kod-na-stranku/
+      pages:
+        - title: Jak si nastavit měřící kód TOPlistu do Google Tag Manageru
+          link: /napoveda/kod-na-stranku/jak-si-nastavit-merici-kod-toplistu-do-google-tag-manageru/
     - title: Nastavení hesla
       link: /napoveda/nastaveni-hesla/
     - title: Tipy a triky
