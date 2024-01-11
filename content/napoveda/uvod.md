@@ -1,8 +1,10 @@
 ---
-title: "Nápověda"
+title: "Úvod"
 type: docs
 menu: main
 weight: 10
+aliases:
+    - /napoveda/
 ---
 # Co je TOPlist
 

@@ -18,8 +18,8 @@ ignoreErrors = ["error-remote-getjson"]
 timeout = "180s"
 
 languageCode = "cs"
-#defaultContentLanguage = "cs"
-#defaultContentLanguageInSubdir = false
+defaultContentLanguage = "cs"
+defaultContentLanguageInSubdir = false
 
 [outputFormats.REDIR]
 mediaType = "text/netlify"
