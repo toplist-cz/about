@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "TOPlist je měření návštěvnosti webových stránek."
     enableDarkMode = true
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
@@ -32,7 +32,7 @@
     purgeHTMLComments = false
 
 [docs]
-    github = "https://github.com/gethinode/hinode"
+    github = "https://github.com/toplist-cz/about"
     release = "https://github.com/gethinode/hinode/releases/tag/"
     checkVersion = false
 
@@ -118,18 +118,18 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#d43900"
+    primary = "#438eb9"
     secondary = "#6c757d"
-    success = "#198754"
-    info = "#0dcaf0"
+    success = "#3c763d"
+    info = "#31708f"
     warning = "#ffc107"
-    danger = "#dc3545"
+    danger = "#a94442"
     light = "#f8f9fa"
     dark = "#212529"
     themeOpacity = "10"
     darkModeShade = "20%"
     darkModeTint = "40%"
-    themeFont = "Inter"
+    themeFont = "Helvetica,Arial,sans-serif"
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
     themeFontPath = "/fonts" # local path
     fontSizeBase = "1rem"

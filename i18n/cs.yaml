@@ -4,7 +4,7 @@
 - id: lastModified
   translation: "Poslední změna {{ . }}"
 - id: read
-  translation: "číst"
+  translation: "čtení"
 - id: minutesShort
   translation: "min"
 - id: words
