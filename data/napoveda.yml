@@ -1,8 +1,6 @@
 - title: Nápověda
   link: /napoveda/
   pages:
-    - title: Co je TOPlist?
-      link: /napoveda/co-je-toplist/
     - title: Jak začít?
       link: /napoveda/jak-zacit/
     - title: FAQ - Často kladené otázky
@@ -16,6 +14,11 @@
           link: /napoveda/dokumentace/osobni-udaje/
         - title: REST API
           link: /napoveda/dokumentace/rest-api/
+    - title: TOPlist Profi
+      link: /napoveda/toplist-profi/
+      pages:
+        - title: Vytvoření nového reportu
+          link: /napoveda/toplist-profi/vytvoreni-noveho-reportu/
     - title: Kód na stránku
       link: /napoveda/kod-na-stranku/
       pages:

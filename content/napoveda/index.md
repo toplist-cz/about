@@ -1,5 +1,6 @@
 ---
-title: "Co je TOPlist"
+title: "Nápověda"
+menu: main
 type: docs
 ---
 na TOPlist lze pohlížet třemi různými způsoby:

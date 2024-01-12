@@ -1,7 +1,7 @@
 ---
 title: Nápověda
-menu: main
-redirect: "/napoveda/co-je-toplist/"
+redirect: "/napoveda/"
 _build:
   list: false
+  render: false
 ------

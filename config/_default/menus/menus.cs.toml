@@ -1,13 +1,3 @@
-[[main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 10
-
-[[main]]
-  name = "Tags"
-  pageRef = "/tags"
-  weight = 20
-
 [[social]]
   name = "LinkedIn"
   pre = "fab linkedin"
@@ -17,13 +7,13 @@
 [[social]]
   name = "GitHub"
   pre = "fab fa-github"
-  url = "https://github.com/"
+  url = "https://github.com/toplist-cz/"
   weight = 20
 
 [[social]]
   name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
+  pre = "fab discord"
+  url = "https://discord.com/"
   weight = 30
 
 # toml-docs-start sample-navigation
