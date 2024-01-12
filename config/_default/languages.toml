@@ -4,8 +4,5 @@
     weight = 1
     [cs.params.head]
         tagline = "O TOPlist.cz"
-    [cs.params.social]
-        title = "Follow me"
-        caption = "I work on everything coding and tweet developer memes"
     [cs.params.footer]
-        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+        license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."

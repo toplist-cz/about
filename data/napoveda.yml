@@ -22,6 +22,8 @@
     - title: Kód na stránku
       link: /napoveda/kod-na-stranku/
       pages:
+        - title: Redakční systémy
+          link: /napoveda/kod-na-stranku/redakcni-systemy/
         - title: Jak si nastavit měřící kód TOPlistu do Google Tag Manageru
           link: /napoveda/kod-na-stranku/jak-si-nastavit-merici-kod-toplistu-do-google-tag-manageru/
     - title: Nastavení hesla

@@ -25,9 +25,7 @@ metoda pro globální statistiky
 Posílání požadavků na server lze testovat hned v dokumentaci. Stačí u metody vyplnit správně hodnoty a odeslat tlačítkem **Zkusit**. Pak je vypsán příklad volání pomocí příkazu [curl](https://curl.se/docs/manpage.html), volaná adresa, tělo požadavku a vracený kód a výsledek.
 # Autorizace
 
-{{< image src="img/api1.png" caption="Autorizace v API" >}}
-
-Autorizace v API
+{{< image src="img/api1.png" caption="Autorizace v API" wrapper="col-8 mx-auto">}}
 
 Některé metody vyžadují autorizaci. Jsou označené ikonou (viz obrázek bod 1.). Po kliknutí na ikonu se objeví dialog na obrázku.
 

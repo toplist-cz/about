@@ -53,7 +53,7 @@
     breadcrumb = true
     toc = true
     sidebar = true
-    size = "md"
+    size = "xl"
 
 [messages]
     placement = "bottom-right"
@@ -141,13 +141,13 @@
     locale = "cs"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    github = "https://github.com/toplist-cz"
     section = "blog"
     [author]
-        name = "Mark Dumay"
+        name = "TOPlist"
         # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        # linkedin = "https://www.linkedin.com/in/markdumay/"
+        # github = "https://github.com/markdumay"
     [logo]
         url = "img/logo512x512.png"
         width = 512
@@ -159,7 +159,8 @@
 
 [opengraph]
     images = ["logo.png"]
-    locale = "en_US"
+    locale = "cs"
 
 [links]
+    toplist = "https://toplist.cz"
     hinode = "https://gethinode.com"

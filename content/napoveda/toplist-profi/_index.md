@@ -1,4 +1,4 @@
 ---
 title: TOPlist Profi
-type: "docs"
+type: docs
 ---
