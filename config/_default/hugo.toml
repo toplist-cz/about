@@ -96,6 +96,7 @@ home = ["HTML", "RSS", "REDIR"]
   [[module.mounts]]
     source = "content"
     target = "content"
+    lang = 'cs'
   [[module.mounts]]
     source = "i18n"
     target = "i18n"

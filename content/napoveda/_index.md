@@ -1,6 +1,8 @@
 ---
 title: Nápověda
-headless: true
 menu: main
-type: docs
----
+redirect: "/napoveda/dokumentace/co-je-toplist/"
+_build:
+  list: false
+  render: false
+------
