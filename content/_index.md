@@ -1,6 +1,6 @@
 ---
 title: TOPlist.cz
-description: "TOPlist.cz je největší český systém měření návštěvnosti webů. Měříme více než 10 milionu návštěvníků ze všech zemí denně. Naše služby využívá více než 1 000 000 webů."
+description: "TOPlist.cz je největší český systém měření návštěvnosti webů. Měříme více než 10 milionu návštěvníků ze všech zemí denně. Naše služby využívá více než 30 000 webů."
 thumbnail: /img/logo_icon.svg
 ---
 # O TOPlist.cz

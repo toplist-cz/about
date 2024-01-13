@@ -17,6 +17,8 @@
     - title: TOPlist Profi
       link: /napoveda/toplist-profi/
       pages:
+        - title: Registrace
+          link: /napoveda/toplist-profi/registrace/
         - title: Vytvoření nového reportu
           link: /napoveda/toplist-profi/vytvoreni-noveho-reportu/
     - title: Kód na stránku
