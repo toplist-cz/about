@@ -6,7 +6,7 @@ author: Pavel Francírek
 tags:
     - globální statistiky
 ---
-To hlavní už zmínil [Yuhů](http://www.jakpsatweb.cz/weblog/archiv/2004-02.html#092322). Já k tomu ještě dodám upřesnění. Filtr je podobný jako u refererů, tj. nepočítají se záznamy z kategorií Anglicky a Erotika.
+To hlavní už zmínil [Yuhů](https://web.archive.org/web/20040620195516/http://www.jakpsatweb.cz/weblog/archiv/2004-02.html#240532). Já k tomu ještě dodám upřesnění. Filtr je podobný jako u refererů, tj. nepočítají se záznamy z kategorií Anglicky a Erotika.
 Jinak se skutečně neměří na unikátní uživatele, ale návštěvy. Čímž, jak Dušan zmiňuje, je zohledněn nejen celkový počet, ale též aktivita zákazníků jednotlivých providerů.
 K jeho tabulce za neděli připojuji pro ukázku TOP10 ze včerejška (pondělí 9.2.2004).
 

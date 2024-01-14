@@ -15,3 +15,4 @@ Poté vyplníte registrační formulář. Povinné pole je pouze email, pomocí 
 
 Po registraci obdržíte email s odkazem pro aktivaci účtu a nastavení hesla.
 
+Po přihlášení jsou k účtu automaticky přiřazeny ty stránky, které mají vyplněný stejný kontaktní email.
