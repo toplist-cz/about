@@ -20,7 +20,7 @@
             default-src 'self'; \
             child-src 'self' app.netlify.com; \
             script-src 'self' \
-                sha256-qRb0NW+En0SpvYuyVZuv+SgwRsZYm13QPAQi/liYDtU= \
+                'sha256-qRb0NW+En0SpvYuyVZuv+SgwRsZYm13QPAQi/liYDtU=' \
                 https://*.netlify.app app.netlify.com netlify-cdp-loader.netlify.app \
                 inline https://*.googletagmanager.com; \
             style-src 'self' \
