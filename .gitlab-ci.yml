@@ -43,7 +43,6 @@ default:
     - mkdir -p themes/hugo-geekblog/
     - curl -L https://github.com/thegeeklab/hugo-geekblog/releases/latest/download/hugo-geekblog.tar.gz | tar -xz -C themes/hugo-geekblog/ --strip-components=1
     - git submodule update --init --recursive
-    - hugo mod init docs
     ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
     #- npm install postcss postcss-cli autoprefixer
 
@@ -59,10 +58,6 @@ deploy:
     - kvm
   script:
     - hugo
-    # rename source directory blog to posts
-    - mkdir -p blog
-    - mv content/cs/blog blog/posts
-    - hugo --config hugo-blog.toml
     - rsync -rav --delete-after ./public/ gitlab@10.183.148.183:www/t
   artifacts:
     paths:
