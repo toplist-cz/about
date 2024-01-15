@@ -35,13 +35,6 @@ default:
       xargs curl -kL
     - dpkg -i hugo*.deb
     - rm -f hugo*.deb
-    - curl -kL https://github.com/thegeeklab/hugo-geekdoc/releases/download/v0.44.0/hugo-geekdoc.tar.gz -o hugo-geekdoc.tar.gz
-    - sha256sum hugo-geekdoc.tar.gz | grep -q 76210693e660ca8de370b31c954c050083760a8ddd30cded402d03d29000e1e9 || exit 1
-    - mkdir -p ${CI_PROJECT_DIR}/themes/hugo-geekdoc
-    - tar -xzf hugo-geekdoc.tar.gz -C ${CI_PROJECT_DIR}/themes/hugo-geekdoc
-    - rm -f hugo-geekdoc.tar.gz
-    - mkdir -p themes/hugo-geekblog/
-    - curl -L https://github.com/thegeeklab/hugo-geekblog/releases/latest/download/hugo-geekblog.tar.gz | tar -xz -C themes/hugo-geekblog/ --strip-components=1
     - git submodule update --init --recursive
     ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
     #- npm install postcss postcss-cli autoprefixer
