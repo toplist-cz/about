@@ -10,9 +10,14 @@ Během letošního roku byl vyvinutý nový způsob rozlišování. Cílem bylo 
 
 Zároveň se trochu změní grafika ikon, která (konečně 🙂) bude ladit se změnou grafiky samotného webu. Zde je ukázka upravených ikon. Jedna z verzí, s nápisem „bez cookies“, Vám umožní informovat Vaše návštěvníky, že si vážíte jejich soukromí a používáte měření, které to respektuje.
 
-Počítadla:
+#### Počítadla
 
-Loga:
+![Counter](/img/counter-new.gif) ![Counter medium](/img/mc-copy.gif) ![Counter big](/img/bc-copy.gif)
+{.h2 class="text-center"}
 
+#### Loga
+
+![Logo blue](/img/count.asp_.png) ![Logo white](/img/logo1.png) ![Logo no cookies](/img/logo2.png)
+{.h2 class="text-center mb-5"}
 
 {{< mark color="success" >}}Aktualizace [30.12.2021 01:07]: nové měření je spuštěné{{< /mark >}}

@@ -5,7 +5,7 @@ thumbnail: /img/logo_icon.svg
 ---
 # O TOPlist.cz
 Zde se budeme snažit shromažďovat různé informace o serveru TOPlist, jak aktuality v blogu, tak i celkovou nápovědu. Součástí TOPlistu je i rozšířená placená verze TOPlist Profi, která poskytuje detailnější statistiky za delší časové období. Pokud by vám tu něco chybělo, dejte nám vědět a doplníme to.
-{.lead}
+{.lead class="mb-5"}
 
 {{< card-group padding="3" gutter="3" class="mx-auto homepage-links" >}}
     {{< card title="Blog" class="text-center" color="primary" header="none" icon="fas rss text-white" path="blog" >}}
@@ -16,4 +16,5 @@ Zde se budeme snažit shromažďovat různé informace o serveru TOPlist, jak ak
     {{< /card >}}
 {{< /card-group >}}
 
-# Blog
+Blog
+{.h1 class="mt-5 mb-0"}
