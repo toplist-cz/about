@@ -1,0 +1,151 @@
+# Single pages
+- id: postedOnDate
+  translation: "Publikováno {{ . }}"
+- id: lastModified
+  translation: "Poslední změna {{ . }}"
+- id: read
+  translation: "čtení"
+- id: minutesShort
+  translation: "min."
+- id: words
+  translation: "slov"
+- id: photoFull
+  translation: "Photo by %s on %s"
+- id: photoShort
+  translation: "Autor fotky {{ . }}"
+- id: photoOn
+  translation: "na"
+- id: draft
+  translation: "Draft"
+
+# List pages
+- id: article
+  translation: "Článek"
+- id: articles
+  translation: "Články"
+- id: more
+  translation: "Další ..."
+- id: emptyList
+  translation: "Články nenalezeny"
+- id: emptyTags
+  translation: "Tagy nenalezeny"
+
+# Languages
+- id: lang_cs
+  translation: "Česky"
+- id: lang_de
+  translation: "Německy"
+- id: lang_en
+  translation: "Anglicky"
+- id: lang_nl
+  translation: "Dánsky"
+- id: lang_fr
+  translation: "Francouzsky"
+
+# Sharing
+- id: shareLink
+  translation: "Sdílet přes {{ . }}"
+- id: shareSystem
+  translation: "system"
+- id: copyToClipboard
+  translation: "kopírovat do schránky"
+- id: copiedToClipboard
+  translation: "zkopírováno do schránky"
+- id: link
+  translation: "Odkaz"
+- id: code
+  translation: "Code"
+- id: download
+  translation: "Stáhnout článek"
+
+# Pagination
+- id: paginationNav
+  translation: "Page navigation"
+- id: paginationPrevious
+  translation: "Předchozí stránka"
+- id: paginationNext
+  translation: "Následující stránka"
+- id: paginationFirst
+  translation: "První stránka"
+- id: paginationLast
+  translation: "Poslední stránka"
+
+# Navigation
+- id: colorMode
+  translation: "Změnit vzhled"
+- id: colorLight
+  translation: "Světlý"
+- id: colorDark
+  translation: "Tmavý"
+- id: colorAuto
+  translation: "Auto"
+- id: toggleMainNav
+  translation: "Přepnout hlavní navigaci"
+- id: home
+  translation: "Úvod"
+- id: languageSwitcherLabel
+  translation: "Jazyk"
+- id: close
+  translation: "Zavřít"
+
+# Table of contents
+- id: toc
+  translation: "Na této stránce"
+- id: seeAlso
+  translation: "Zobrazit také"
+- id: sectionMenu
+  translation: "Výběr sekce"
+
+# Sidebar
+- id: toggleSidebar
+  translation: "Přepnout boční panel"
+
+# Feature
+- id: addedFeature
+  translation: "Přidáno v {{ . }}"
+- id: deprecatedFeature
+  translation: "Zastaralé v {{ . }}"
+
+# Versioning
+- id: latest
+  translation: "latest"
+- id: allVersions
+  translation: "Všechny verze"
+- id: newerVersionAlert
+  translation: "Novější verze {{ . }}!"
+
+# 404 page
+- id: pageNotFound
+  translation: "Stránka, kterou hledáte, buď neexistuje nebo se vyskytla jiná chyba. Zkuste se vrátit na naši {{ . }}."
+- id: pageNotFoundTitle
+  translation: "Stránka nenalezena"
+- id: pageNotFoundHome
+  translation: "úvodní stránku"
+
+# Footer
+- id: copyright
+  translation: "Copyright"
+- id: rights
+  translation: "All rights reserved"
+- id: poweredBy
+  translation: "Powered by {{ . }}."
+
+# Comments
+- id: show
+  translation: "Ukázat"
+- id: comments
+  translation: "Komentáře"
+
+# Arguments
+- id: name
+  translation: "Název"
+- id: type
+  translation: "Typ"
+- id: required 
+  translation: "Vyžadováno"
+- id: default
+  translation: "Výchozí hodnota"
+- id: comment
+  translation: "Komentář"
+- id: supportedValues
+  translation: "Podporované hodnoty"

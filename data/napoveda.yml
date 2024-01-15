@@ -1,0 +1,34 @@
+- title: Nápověda
+  link: /napoveda/
+  pages:
+    - title: Jak začít?
+      link: /napoveda/jak-zacit/
+    - title: FAQ - Často kladené otázky
+      link: /napoveda/faq/
+    - title: Dokumentace
+      link: /napoveda/dokumentace/
+      pages:
+        - title: Metodika měření
+          link: /napoveda/dokumentace/metodika-mereni/
+        - title: Osobní údaje
+          link: /napoveda/dokumentace/osobni-udaje/
+        - title: REST API
+          link: /napoveda/dokumentace/rest-api/
+    - title: TOPlist Profi
+      link: /napoveda/toplist-profi/
+      pages:
+        - title: Registrace
+          link: /napoveda/toplist-profi/registrace/
+        - title: Vytvoření nového reportu
+          link: /napoveda/toplist-profi/vytvoreni-noveho-reportu/
+    - title: Kód na stránku
+      link: /napoveda/kod-na-stranku/
+      pages:
+        - title: Redakční systémy
+          link: /napoveda/kod-na-stranku/redakcni-systemy/
+        - title: Jak si nastavit měřící kód TOPlistu do Google Tag Manageru
+          link: /napoveda/kod-na-stranku/jak-si-nastavit-merici-kod-toplistu-do-google-tag-manageru/
+    - title: Nastavení hesla
+      link: /napoveda/nastaveni-hesla/
+    - title: Tipy a triky
+      link: /napoveda/tipy-a-triky/

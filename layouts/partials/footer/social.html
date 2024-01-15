@@ -1,0 +1,34 @@
+{{ if .Site.Params.footer.socialTitle }}
+    {{ warnf "DEPRECATED: parameter `Params.home.socialTitle` has been deprecated in release v0.18"}}
+{{ end }}
+{{ if .Site.Params.footer.socialCaption }}
+    {{ warnf "DEPRECATED: parameter `Params.home.socialCaption` has been deprecated in release v0.18"}}
+{{ end }}
+
+{{ if gt .Site.Menus.social 0 }}
+    {{- $tab := site.Params.main.externalLinks.tab -}}
+    <div class="container-fluid bg-primary bg-opacity-{{ .Site.Params.style.themeOpacity | default "25" | safeHTML }}">
+        <div class="container-xxl px-4 px-xxl-0">
+            <div class="row row-cols-2 py-3 align-items-center">
+                <div class="col col-6">
+                    <div class="row justify-content-end p-0">
+                        <a href="https://www.toplist.cz/" target="_blank"><img
+                            src="https://toplist.cz/images/counter.asp?a=mc&id=666"
+                            border="0" width="88" height="60" alt="TOPlist"></a>
+                    </div>
+                </div>
+                <div class="col col-6 text-sm-start">
+                    {{ range .Site.Menus.social -}}
+                        <a href="{{ .URL }}" {{ if $tab }} target="_blank" rel="noopener noreferrer"{{ end }} aria-label="{{ .Name | safeHTML }}" class="text-decoration-none link-secondary d-inline p-2">
+                            {{ if hasPrefix .Pre "<i" }}
+                                {{ .Pre | safeHTML }}
+                            {{ else }}
+                                {{ partial "assets/icon.html" (dict "icon" (printf "%s fa-2x" .Pre) )}}
+                            {{ end }}
+                        </a>
+                    {{ end -}}
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}
