@@ -5,7 +5,7 @@ type: docs
 Pro přístup k datům, statistikám a správě podporuje TOPlist také rozhranní REST API. Jeho úvodní stránka je na adrese
 
 https://profi.toplist.cz/api/
-{.h1 class="text-center"}
+{.h1 class="text-center mb-5"}
 
 Dostupné metody jsou rozdělené do 4 skupin:
 ## web

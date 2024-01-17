@@ -7,11 +7,11 @@ Zároveň umožňuje přehled o všech Vašich stránkách, které jsou v TOPlis
 
 Registraci začnete na úvodní stránce služby [TOPlist Profi](https://profi.toplist.cz/), kde kliknete na odkaz **Registrace zdarma**.
 
-{{< image src="/img/profiLoginLink.png" wrapper="col-6 mx-auto" >}}
+{{< image src="/img/profiLoginLink.png" wrapper="col-6 mx-auto mb-5" >}}
 
 Poté vyplníte registrační formulář. Povinné pole je pouze email, pomocí kterého se budete přihlašovat. Po vyplnění formuláře klikněte na tlačítko **Registrovat**.
 
-{{< image src="/img/profiRegistration.png" wrapper="col-6 mx-auto" >}}
+{{< image src="/img/profiRegistration.png" wrapper="col-6 mx-auto mb-5" >}}
 
 Po registraci obdržíte email s odkazem pro aktivaci účtu a nastavení hesla.
 
