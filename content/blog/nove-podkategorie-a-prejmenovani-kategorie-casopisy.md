@@ -4,6 +4,7 @@ date: 2023-10-17T
 lastmod: 2023-10-17
 type: "posts"
 author: "Zuzana Machalová"
+thumbnail: /img/blog/magaziny.png
 ---
 V rámci postupné aktualizace stromu kategorií jsme přejmenovali kategorii „Časopisy“ na „Magazíny“ a přidali jsme nové podkategorie:
 
