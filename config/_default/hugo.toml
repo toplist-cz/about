@@ -1,10 +1,10 @@
 title = "O TOPlist.cz"
-copyright = "TOPlist.cz"
+copyright = "© 1997 - 2024, TOPlist s.r.o."
 paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://o.toplist.cz/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
