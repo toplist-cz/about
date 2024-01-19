@@ -6,4 +6,4 @@ weight: 20
 cascade:
   metadata: original
 ---
-#### [{{< fas rss >}}RSS](./index.xml)
+[{{< fas rss >}}RSS](./index.xml)

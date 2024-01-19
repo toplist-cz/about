@@ -1,4 +1,10 @@
 [[social]]
+  name = "RSS"
+  pre = "fas rss"
+  url = "/blog/index.xml"
+  weight = 1
+
+[[social]]
   name = "LinkedIn"
   pre = "fab linkedin"
   url = "https://linkedin.com/company/toplist-s-r-o"
