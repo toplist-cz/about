@@ -2,7 +2,8 @@
 title: Týden změn
 type: posts
 date: 2010-07-04
-author: Pavel Francírek
+authors:
+  - franci
 ---
 V uplynulém týdnu (28.6. – 4.7. 2010) bylo zaznamenáno dokonce několik předělů.
 Asi nejzajímavější je pokles podílu Microsoft Exploreru verze 6 na úroveň 5 procent. Což by mohlo znamenat, že zejména u menších a nových projektů by bylo možné konečně přestat tuto verzi brát v potaz.

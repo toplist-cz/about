@@ -2,7 +2,8 @@
 title: Metodika globální statistiky vyhledávačů
 type: posts
 date: 2011-01-12
-author: Pavel Francírek
+authors:
+  - franci
 tags:
   - globálni statistiky
 ---

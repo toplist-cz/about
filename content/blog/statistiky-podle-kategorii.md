@@ -2,7 +2,8 @@
 title: Statistiky podle kategorií
 type: posts
 date: 2003-08-20
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Yuhůů mne přemluvil, abych vytvořil stránku s nějakými celkovými statistikami TOPlistu. První verze je na adrese http://www.toplist.cz/global.html. Stránka je generována jednou denně.
 

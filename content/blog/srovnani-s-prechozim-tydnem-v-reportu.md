@@ -2,7 +2,8 @@
 title: Srovnání s přechozím týdnem v reportu
 type: posts
 date: 2017-04-13
-author: TOPlist
+authors:
+  - toplist
 ---
 Přidali jsme do týdenního reportu srovnání s přechozím týdnem. Vypisuje se relativní rozdíl mezi posledním a předposledním týdnem. Po najetí myší se v bublině objeví i absolutní hodnota celkové návštěvnosti.
 

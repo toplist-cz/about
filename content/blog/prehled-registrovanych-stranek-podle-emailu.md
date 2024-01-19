@@ -2,7 +2,8 @@
 title: Přehled registrovaných stránek podle emailu
 type: posts
 date: 2018-01-30
-author: TOPlist
+authors:
+  - toplist
 ---
 Připravili jsme stránku, která umožní zjistit všechny registrace, u kterých je uvedený váš email jako kontaktní. A zároveň umožní rychlé nastavení posílání pravidelného týdenního reportu.
 

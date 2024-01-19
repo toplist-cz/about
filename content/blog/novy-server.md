@@ -2,7 +2,8 @@
 title: Nový server
 type: posts
 date: 2006-01-18
-author: Pavel Francírek
+authors:
+  - franci
 tags:
     - hardware
 ---

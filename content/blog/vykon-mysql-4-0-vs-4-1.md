@@ -2,7 +2,8 @@
 title: Výkon MySQL 4.0 vs. 4.1
 type: posts
 date: 2006-01-18
-author: Pavel Francírek
+authors:
+  - franci
 tags:
     - databáze
 ---

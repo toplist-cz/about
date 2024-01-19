@@ -2,7 +2,8 @@
 title: Jak jsme slavili Silvestr
 type: posts
 date: 2019-01-01
-author: TOPlist
+authors:
+  - toplist
 ---
 Jak je z obrázku provozu na TOPlistu vidět, začali se lidé na oslavu připravovat už od odpoledne. Chybí odpolední špička, která by rostla od druhé hodiny. Samotné slavení začalo od sedmi večer a, pochopitelně, vyvrcholilo o půlnoci. Pokračovalo do jedné hodiny, kdy se provoz vrátil do běžného stavu. A, jak vidíte, 1. leden je už zase den jako každý jiný.
 

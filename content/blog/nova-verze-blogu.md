@@ -1,7 +1,8 @@
 ---
 title: Nová verze blogu
 date: 2024-01-18
-author: Pavel Francírek
+authors:
+    - franci
 type: posts
 thumbnail: /img/blog/gohugo.png
 ---

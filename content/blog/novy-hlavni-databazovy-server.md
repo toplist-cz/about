@@ -2,7 +2,8 @@
 title: nový hlavní databázový server
 type: posts
 date: 2008-02-02
-author: Pavel Francírek
+authors:
+  - franci
 tags:
   - databáze
   - hardware

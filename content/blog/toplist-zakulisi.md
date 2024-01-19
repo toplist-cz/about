@@ -2,7 +2,8 @@
 title: TOPlist – zakulisí
 type: posts
 date: 2005-08-21
-author: Pavel Francírek
+authors:
+  - franci
 tags:
     - databáze
     - hardware

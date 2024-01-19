@@ -2,7 +2,8 @@
 title: Kontrola GDPR z ÚOOÚ
 type: posts
 date: 2019-10-01
-author: TOPlist
+authors:
+  - toplist
 ---
 Na začátku roku proběhla kontrola dodržování GDPR na TOPlistu.
 Hlavní výsledek je:

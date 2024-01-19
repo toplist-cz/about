@@ -2,7 +2,8 @@
 title: Restart
 type: posts
 date: 2017-01-05
-author: TOPlist
+authors:
+  - toplist
 ---
 Rok 2016 je za námi. Započítali jsme během něj **6 723 268 569** návštěv a **34 851 098 705** zhlédnutí (ano, řád desítek miliard je správně).
 

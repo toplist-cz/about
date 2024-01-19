@@ -2,7 +2,8 @@
 title: Tajný tip ke globálním statistikám :)
 type: posts
 date: 2010-02-08
-author: Pavel Francírek
+authors:
+  - franci
 tags:
   - globálni statistiky
 ---

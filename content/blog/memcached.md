@@ -2,7 +2,8 @@
 title: Memcached
 type: posts
 date: 2005-01-20
-author: Pavel Francírek
+authors:
+  - franci
 tags:
     - databáze
 ---

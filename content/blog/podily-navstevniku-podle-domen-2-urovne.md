@@ -2,7 +2,8 @@
 title: Podíly návštěvníků podle domén 2. úrovně
 type: posts
 date: 2004-02-10
-author: Pavel Francírek
+authors:
+  - franci
 tags:
     - globální statistiky
 ---

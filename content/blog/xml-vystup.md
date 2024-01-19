@@ -2,7 +2,8 @@
 title: XML výstup
 type: posts
 date: 2008-01-21
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Data o návštěvnosti je nyní možné získávat i ve formátu XML.
 

@@ -2,7 +2,8 @@
 title: Změna hesla
 type: posts
 date: 2017-02-27
-author: TOPlist
+authors:
+  - toplist
 ---
 Jak jsme slíbili, začínáme s informacemi o nové verzi. Mohli jsme začít třeba s logem. Psát o tom, že je to pro nás symbol toho, že se mění opravdu všechno. Že je v podstatě známé, protože je to upravená ikona podrobných statistik. A že její hlavní plus je, že na rozdíl od současného loga, jej lze použít ve všech možných velikostech od ikony po billboard 🙂
 

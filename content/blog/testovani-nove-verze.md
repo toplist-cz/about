@@ -2,7 +2,8 @@
 title: Testování nové verze
 type: posts
 date: 2017-05-07
-author: TOPlist
+authors:
+  - toplist
 ---
 O pár měsíců a dalších 79 změn později od [lednového oznámení](../94-2/) máme připravenou novou verzi k veřejnému testu. Najdete ji na adrese https://novy.toplist.cz. Přístup je chráněn heslem, které je „test“ (uživatel i heslo).
 

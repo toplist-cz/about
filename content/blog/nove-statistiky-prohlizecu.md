@@ -2,7 +2,8 @@
 title: Nové statistiky prohlížečů
 type: posts
 date: 2019-07-29
-author: TOPlist
+authors:
+  - toplist
 ---
 Většina statistik nyní umožňuje zobrazení výsledku jak v tabulce, tak i grafu (pro statistiky za jeden den je použitý koláčový graf).
 

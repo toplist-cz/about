@@ -2,7 +2,8 @@
 title: TOPlist – tajné funkce I.
 type: posts
 date: 2003-06-02
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Když se Bizi rozhodl, že bude odhalovat některé nepublikované funkce Lidé.cz (viz. [Bizi the Blogger](https://web.archive.org/web/20051207141844/http://blog.lide.cz/franci/2003/05/29/8)), rozhodl jsem se zde uvést i nějaké možnosti TOPlistu, které nemusí být obecně známé.
 

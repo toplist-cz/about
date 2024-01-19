@@ -2,7 +2,8 @@
 title: TOPlist – tajné funkce II.
 type: posts
 date: 2003-06-09
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Je tu další díl pondělního miniseriálu o nedokumentovaných funkcích a vlastnostech TOPlistu. Jednu má i textová verze počítadla. Ta je řešena přes kombinaci iframe a ilayer, takže funguje ve všech moderních prohlížečích a její výhodou je, že je návštěva započítaná i když má uživatel třeba vypnuto zobrazování grafiky. Kód vypadá takto:
 

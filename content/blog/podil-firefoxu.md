@@ -2,7 +2,8 @@
 title: Podíl Firefoxu
 type: posts
 date: 2009-09-12
-author: Pavel Francírek
+authors:
+  - franci
 tags:
   - globálni statistiky
 ---

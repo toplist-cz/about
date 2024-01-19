@@ -2,7 +2,8 @@
 title: Krizová strategie
 type: posts
 date: 2011-11-13
-author: Pavel Francírek
+authors:
+  - franci
 ---
 # Situace
 Celá situace začala jako banální závada. Ve čtvrtek večer odešel v jednom databázovém serveru pevný disk. Není to nic výjímečného a servery jsou na to připraveny a standardně se celá záležitost obejde bez komplikací. Práci automaticky převezmou další disky, kterých bývá několik připravených. V tomto případě se ovšem objevily indicie, že se může jednat o něco závažnějšího. Souborový systém hlásil možné poškození. Na víkend byla proto naplánovaná důkladná kontrola. Během ní se ovšem ukázalo, že server vykazuje další podivné chování. Někdy se zdálo, jakoby docházelo k výpadkům operační paměti. Občas byly problémy se síťovým připojením. Paměť byla vyměněna, zrovna tak kabely a switch na vnitřní síti. Ve finále bylo vyměněno celé chasis serveru. A nové už začalo pracovat bez problému. Původní je už nyní na cestě k výrobci pro analýzu.

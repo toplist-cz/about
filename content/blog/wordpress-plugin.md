@@ -2,7 +2,8 @@
 title: WordPress plugin
 type: posts
 date: 2019-05-21
-author: Pavel Francírek
+authors:
+  - franci
 tags:
     - wordpress
 ---

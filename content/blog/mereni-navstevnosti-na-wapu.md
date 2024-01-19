@@ -2,7 +2,8 @@
 title: Měření návštěvnosti na WAPu
 type: posts
 date: 2005-07-05
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Není to úplná novinka, ale asi jsem o tom ještě nikde nepsal 🙂 Kdysi jsem si hrál s WAPem, takže stačí použít kód:
 

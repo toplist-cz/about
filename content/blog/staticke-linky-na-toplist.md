@@ -2,7 +2,8 @@
 title: Statické linky na TOPlist
 type: posts
 date: 2004-02-05
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Jelikož:
 

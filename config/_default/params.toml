@@ -162,5 +162,9 @@
     locale = "cs"
 
 [links]
-    toplist = "https://toplist.cz"
+    toplist = "https://www.toplist.cz"
     hinode = "https://gethinode.com"
+
+[params.authors]
+[params.authors.franci]
+    title = "Pavel Francírek"

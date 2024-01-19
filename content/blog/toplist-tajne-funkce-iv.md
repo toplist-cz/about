@@ -2,7 +2,8 @@
 title: TOPlist – tajné funkce IV.
 type: posts
 date: 2003-06-23
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Dneska poodhalím trochu ze zákulisí TOPlistu. Pokud vás zajímá hardware, na kterém běží, tak vězte, že se jedna o:
 

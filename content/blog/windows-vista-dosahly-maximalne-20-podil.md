@@ -2,7 +2,8 @@
 title: Windows Vista dosáhly maximálně 20% podíl
 type: posts
 date: 2009-11-19
-author: Pavel Francírek
+authors:
+  - franci
 tags:
   - globálni statistiky
 ---

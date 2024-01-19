@@ -2,7 +2,8 @@
 title: Podkategorie na TOPlistu
 type: posts
 date: 2003-07-02
-author: Pavel Francírek
+authors:
+  - franci
 ---
 Vím o tom, že probíhá diskuse nad rozdělením kategorie Weblogy na víc podkategorií (přehled je třeba u [Každého blogujícího](http://www.bloguje.cz/blogy/kazdy/1058_item.php) :-))
 

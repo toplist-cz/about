@@ -2,7 +2,8 @@
 title: iOS 13.1 je už v Česku nejpoužívanější
 type: posts
 date: 2019-10-14
-author: TOPlist
+authors:
+  - toplist
 tags:
     - globální statistiky
 ---
