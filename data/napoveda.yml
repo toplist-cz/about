@@ -21,6 +21,10 @@
           link: /napoveda/toplist-profi/registrace/
         - title: Vytvoření nového reportu
           link: /napoveda/toplist-profi/vytvoreni-noveho-reportu/
+        - title: Měřené statistiky
+          link: /napoveda/toplist-profi/merene-statistiky/
+#        - title: Přidání nového webu
+#          link: /napoveda/toplist-profi/pridani-noveho-webu/
     - title: Kód na stránku
       link: /napoveda/kod-na-stranku/
       pages:
