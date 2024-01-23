@@ -1,6 +1,7 @@
 ---
 title: Vytvoření nového reportu
 type: docs
+weight: 20
 ---
 1. Po přihlášení do TOPlist Profi klikněte v levém vertikálním menu na zelené tlačítko **„>vytvořit“**
 

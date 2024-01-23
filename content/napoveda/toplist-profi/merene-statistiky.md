@@ -1,6 +1,7 @@
 ---
 title: Měřené statistiky
 type: docs
+weight: 30
 ---
 V reportu lze vytvořit statistiky následujících hodnoty:
 

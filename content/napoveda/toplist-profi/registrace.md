@@ -1,6 +1,7 @@
 ---
 title: Registrace
 type: docs
+weight: 10
 ---
 Registrace do služby TOPlist Profi je také zdarma. Umožňuje použití rozšířených funkcí TOPlistu, které vyžadují přihlášení (např. [REST API](../../dokumentace/rest-api/)).
 Zároveň umožňuje přehled o všech Vašich stránkách, které jsou v TOPlistu zaregistrované.
