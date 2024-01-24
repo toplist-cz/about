@@ -1,10 +1,3 @@
-{{ if .Site.Params.footer.socialTitle }}
-    {{ warnf "DEPRECATED: parameter `Params.home.socialTitle` has been deprecated in release v0.18"}}
-{{ end }}
-{{ if .Site.Params.footer.socialCaption }}
-    {{ warnf "DEPRECATED: parameter `Params.home.socialCaption` has been deprecated in release v0.18"}}
-{{ end }}
-
 {{ if gt .Site.Menus.social 0 }}
     {{- $tab := site.Params.main.externalLinks.tab -}}
     <div class="container-fluid bg-primary bg-opacity-{{ .Site.Params.style.themeOpacity | default "25" | safeHTML }}">
@@ -15,9 +8,10 @@
                         <a href="https://www.toplist.cz/" target="_blank"><img
                             src="https://toplist.cz/images/counter.asp?a=mc&id=666"
                             border="0" width="88" height="60" alt="TOPlist"></a>
-                    </div>
+                        </div>
                 </div>
                 <div class="col col-6 text-sm-start">
+                    <a href="/kontakt/">Kontakt</a>&nbsp;|&nbsp;<a href="/obchodni-podminky/">Obchodní podmínky</a>
                     {{ range .Site.Menus.social -}}
                         <a href="{{ .URL }}" {{ if $tab }} target="_blank" rel="noopener noreferrer"{{ end }} aria-label="{{ .Name | safeHTML }}" class="text-decoration-none link-secondary d-inline p-2">
                             {{ if hasPrefix .Pre "<i" }}

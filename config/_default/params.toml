@@ -164,7 +164,3 @@
 [links]
     toplist = "https://www.toplist.cz"
     hinode = "https://gethinode.com"
-
-[params.authors]
-[params.authors.franci]
-    title = "Pavel Francírek"

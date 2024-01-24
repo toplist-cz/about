@@ -1,4 +1,5 @@
 ---
+title: Obchodní podmínky
 type: docs
 ---
 # I. Základní ustanovení
