@@ -2,7 +2,11 @@
 title: Podíl návštěvníků podle domén 2. úrovně, po 20 letech
 authors:
     - toplist
-date: 2024-02-10
+tags:
+    - globální statistiky
+type: posts
+thumbnail: /img/blog/_1caf6907-2bbe-4042-b9ba-03c74989b5e5.jpg
+date: 2024-02-09
 ---
 Přesně před 20 lety proběhla malá blogová diskuze o [podílu poskytovatelů připojení na českém internetu](../podily-navstevniku-podle-domen-2-urovne/). Pojďme se podívat, co se za tu dobu změnilo.
 
