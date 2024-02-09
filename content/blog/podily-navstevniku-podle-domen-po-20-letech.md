@@ -6,7 +6,7 @@ tags:
     - globální statistiky
 type: posts
 thumbnail: /img/blog/_1caf6907-2bbe-4042-b9ba-03c74989b5e5.jpg
-date: 2024-02-09
+date: 2024-02-10
 ---
 Přesně před 20 lety proběhla malá blogová diskuze o [podílu poskytovatelů připojení na českém internetu](../podily-navstevniku-podle-domen-2-urovne/). Pojďme se podívat, co se za tu dobu změnilo.
 
@@ -27,8 +27,8 @@ Krátce řečeno - všechno.
 | 10. bluetone.cz	|0.43 %|
 {{< /table >}}
 
-U dnešních statistik je použitá trochu jiná metodika. Podíl je počítán na základě návštěv, u kterých je geolokací (která nebyla ještě před 20 lety implementovaná) určená země původu Česká republika. Že tím vypadl, v původních statistikách uvedený, AOL, už dnes vadit nebude.
+U včerejších (pátek 9. března 2024) statistik je použitá trochu jiná metodika. Podíl je počítán na základě návštěv, u kterých je geolokací (která nebyla ještě před 20 lety implementovaná) určená země původu Česká republika. Že tím vypadl, v původních statistikách uvedený, AOL, už dnes vadit nebude.
 
-I tak je na první pohled patrná konsolidace trhu. Je vidět násobný odskok všech tří mobilních operátotorů od ostatní konkurence. Před dvaceti lety byl největší poskytovatel na prvním místě s podílem 4.72 %. Respektive, i kdyby se počítaly společně domény jejichž dnešní pokračovatel je O2 (tj. iol.cz a eutotel.cz), tak by jejich podíl byl 6,93 %, což je stále násobně méně než dnešní 17.14 %. Trochu "neviditelný" je podíl Nej.cz, který je v TOP 10 zastoupen hned třemi doménami (tj. nej.cz, rionet.cz a nbox.cz), ale ani jejich společný podíl neohrožuje dominanci tří mobilních operátorů. Ta vznikla jednak nástupem mobilního internetu, ale i akvizicemi. Například, v původní tabulce se to týkalo třeba Mistralu (UPC -> Vodafone) nebo Contactelu (GTS -> T-Mobile).
+I tak je na první pohled patrná konsolidace trhu. Je vidět násobný odskok všech tří mobilních operátotorů od ostatní konkurence. Před dvaceti lety byl největší poskytovatel na prvním místě s podílem 4.72 %. Respektive, i kdyby se počítaly společně domény jejichž dnešní pokračovatel je O2 (tj. iol.cz a eurotel.cz), tak by jejich podíl byl 6,93 %, což je stále násobně méně než dnešní 17.14 %. Trochu "neviditelný" je podíl Nej.cz, který je v TOP 10 zastoupen hned třemi doménami (nej.cz, rionet.cz a nbox.cz), ale ani jejich společný podíl neohrožuje dominanci tří mobilních operátorů. Ta vznikla jednak nástupem mobilního internetu, ale i akvizicemi. Například, v původní tabulce se to týkalo třeba Mistralu (UPC -> Vodafone) nebo Contactelu (GTS -> T-Mobile).
 
 Ostatní poskytovatelé v podstatě zmizeli. Ať už tehdejší velcí hráči Video On Line nebo Tiscali nebo třeba projekt [Indoš](https://cs.wikipedia.org/wiki/Internet_do_%C5%A1kol).
