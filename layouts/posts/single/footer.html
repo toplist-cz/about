@@ -1,3 +1,12 @@
+<div class="navigation">
+    {{ if and .Prev }}
+    <hr>
+        <a class="badge rounded-pill bg-success" href="{{ .Prev.Permalink }}">⇦&nbsp;{{ .Prev.Title }}</a></span>
+    {{ end }}
+    {{ if and .Next (in .Next.Permalink "/blog/") }}
+        <a class="badge rounded-pill bg-success float-end" href="{{ .Next.Permalink }}">{{ .Next.Title }}&nbsp;⇨</a>
+    {{ end }}
+</div>
 <div style="max-width: 100%;">
     <script data-isso="https://o.toplist.cz/comments" src="https://o.toplist.cz/comments/js/embed.min.js"></script>
     <section id="comments"></section>
