@@ -23,7 +23,7 @@ type: docs
 * Provozovatel nenese žádnou zodpovědnost za nefunkčnost či nedostupnost systému, která byla způsobena technickým či jiným problémem na straně subdodavatele, poruchou či odstávkou v síti Internet mezi uživatelem a servery Provozovatele či vyšší mocí. Provozovatel nenese zodpovědnost za nedostupnost služby v případě nefunkčnosti připojení uživatele k Internetu.
 * Provozovatel neodpovídá za jakoukoli škodu či ztrátu, která byla nebo by mohla být Zákazníkovi způsobena v souvislosti s používáním služeb. Jakékoliv náhrady škod a dalších nákladů, včetně odpovědnosti za ušlý zisk Zákazníka, jsou vždy limitovány (a ohraničeny) maximální výší, která je rovna poplatku za jeden měsíc provozu příslušné služby.
 # III. Vyúčtování a platby
-* Aktuální ceník je k dispozici na stránkách Provozovatele „profi.toplist.cz“. Změny v ceníku Provozovatel včas oznamuje na stejných stránkách.
+* Aktuální ceník je k dispozici na stránkách Provozovatele „[profi.toplist.cz](https://profi.toplist.cz)“. Změny v ceníku Provozovatel včas oznamuje na stejných stránkách.
 * Faktury a zálohové faktury jsou Zákazníkovi zasílány prostřednictvím elektronické pošty na e-mailovou adresu, která je uvedena v zákaznickém účtu Zákazníka. Účetní doklady nejsou poskytovány v papírové podobě, s čímž Zákazník výslovně souhlasí.
 * Jestliže Zákazník neuhradí jakoukoliv zálohovou fakturu (výzvu k platbě) do konce předplaceného období dané služby, je Provozovatel oprávněn službu pozastavit.
 * Jestliže Zákazník neuhradí jakoukoliv fakturu do doby její splatnosti, je Provozovatel oprávněn službu pozastavit.
