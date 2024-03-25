@@ -65,7 +65,8 @@ Kód musí být umístěn na všech stránkách, jejichž návštěvnost má bý
 To by znamenalo, že by v pondělí byla návštěvnost jen za 1 den (pondělí), v úterý za dva atd. Proto je počítá tzv. plovoucí týden, tj. posledních 7 dní.
 
 ## Nechodí mi týdenní mail s návštěvností
-Zkontrolujte, zda není špatně nastavený filtr na SPAM a email nekončí v koši. Také pozor na to, že se návštěvnost posílá z jiné emailové adresy (report@toplist.cz) než ostatní maily (s registraci, editaci, heslu), takže může být zahazovaná pouze ta. Každý týden je rozesláno několik stovek tisíc těchto emailů, některé mailové servery (zejména freemaily) mohou chybně považovat tento provoz za spam, je dobré se proto zeptat i administrátorů těchto serverů (ale většina velkých českých freemailů o tom ví a má filtry patřičně nastavené).
+Zkontrolujte, zda není špatně nastavený filtr na SPAM a email nekončí v koši. Také pozor na to, že se návštěvnost posílá z jiné emailové adresy ``report@toplist.cz`` než ostatní maily (s registraci, editaci, heslu), takže může být zahazovaná pouze ta. Každý týden je rozesláno několik stovek tisíc těchto emailů, některé mailové servery (zejména freemaily) mohou chybně považovat tento provoz za spam, je dobré se proto zeptat i administrátorů těchto serverů (ale většina velkých českých freemailů o tom ví a má filtry patřičně nastavené).<br>
+Adresu ``report@toplist.cz`` používáme jen na posílání reportů a nic jiného. Když ji ve vašem emailu nastavíte jako důvěryhodnou nebo bez kontroly na spam, tak budete mít jistotu, že vám report vždy přijde.
 
 Druhá možnost je, že se z uvedené adresy vrací email (hlášení o plné schránce, automatické odpovědi apod.). Pokud takové emaily dostaneme třikrát, posílání se automaticky ukončí. Po opravení příčiny stačí editovat záznam na TOPlistu a posílání se znovu zahájí.
 
