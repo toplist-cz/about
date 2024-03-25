@@ -8,6 +8,8 @@
     - title: Dokumentace
       link: /napoveda/dokumentace/
       pages:
+        - title: Statistiky
+          link: /napoveda/dokumentace/statistiky/
         - title: Metodika měření
           link: /napoveda/dokumentace/metodika-mereni/
         - title: Osobní údaje
