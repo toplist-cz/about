@@ -3,6 +3,12 @@ title: Statistiky
 type: docs
 ---
 
+## Přihlášení
+
+{{< image src="/img/statistics/login.png" wrapper="col-10 mx-auto mb-5" >}}
+
+{{< image src="/img/statistics/login-profi.png" wrapper="col-6 mx-auto mb-5" >}}
+
 ## Menu
 
 {{< image src="/img/statistics/menu.png" wrapper="col-10 mx-auto mb-5" >}}
