@@ -7,6 +7,8 @@ type: docs
 
 {{< image src="/img/statistics/login.png" wrapper="col-10 mx-auto mb-5" >}}
 
+Statistiky umožňují příhlášení buď pomocí TOPlist ID stránky a hesla (stejného jako do editace záznamu). Druhá možnost je pomocí emailu. To předpokládá registraci do služby TOPlist Profi (bezplatně) a [přiřazení měřených stránek k účtu](/napoveda/toplist-profi/pridani-noveho-webu/).
+
 {{< image src="/img/statistics/login-profi.png" wrapper="col-6 mx-auto mb-5" >}}
 
 ## Menu
