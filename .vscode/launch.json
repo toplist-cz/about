@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Hugo",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "env": {
+            },
+            "runtimeExecutable": "hugo",
+            "runtimeArgs": [
+                "server",
+                "--disableFastRender"
+            ],
+            "serverReadyAction": {
+                "pattern": "Running on http://0.0.0.0:([0-9]+)",
+                "uriFormat": "http://localhost:%s",
+                "action": "openExternally"
+              }
+        }
+    ]
+}

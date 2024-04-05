@@ -39,7 +39,24 @@ V pravé je možnost zvolit statistiky za delší období (týden, měsíc, rok)
 
 ### Celková historie návštěvnosti
 
+{{< image src="/img/statistics/all-stats.png" wrapper="col-10 mx-auto mb-5" >}}
+
+První statistikou je celkový přehled návštěvnosti ([počet návštěv a zhlédnutí](/napoveda/dokumentace/metodika-mereni/#jake-hodnoty-se-meri)) za celou dobu od registrace. Zobrazený je plovoucí týdenní průměr, který není ovlivněn rozdílem návštěvností během pracovních dní a víkendu.
+
 ### Záznam
+
+{{< image src="/img/statistics/live.png" wrapper="col-10 mx-auto mb-5" >}}
+
+Následuje výpis posledních zaznamenaných návštěv. V pravém horním rohu je aktualizovaný počet dnešních návštěv, zhlédnutí a aktuální počet online návštěvníků.
+
+Ve verzi Profi je možné aktivovat volbu "live", kdy dochází v automatické aktualizaci zobrazení včetně přehledu dalších zhlédnutí v rámci jedné návštěvy.
+
+Informace, které jsou zobrazeny:
+* čas návštěvy, anonymizovaný hostname a IP návštěvy, ikona s vlajkou země (v popisku je dvouznakový kód země)
+* referer návštěvy
+* titulek stránky, její URL a odkaz na stránku
+* ikona typu zařízení (mobil, počítač atd.), ikona prohlížeče, verze prohlížeče a op. systému, rozlišení ve tvaru šířka x výška x barevná hloubka
+* ikony další zhlednutí s odkazem na stránku (v popisku je čas, titulek stránky)
 
 ### návštěvnost
 
