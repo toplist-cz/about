@@ -10,13 +10,13 @@
 - id: words
   translation: "slov"
 - id: photoFull
-  translation: "Photo by %s on %s"
+  translation: "Fotka od %s z %s"
 - id: photoShort
   translation: "Autor fotky {{ . }}"
 - id: photoOn
-  translation: "na"
+  translation: "z"
 - id: draft
-  translation: "Draft"
+  translation: "Návrh"
 
 # List pages
 - id: article
@@ -54,13 +54,13 @@
 - id: link
   translation: "Odkaz"
 - id: code
-  translation: "Code"
+  translation: "Kód"
 - id: download
   translation: "Stáhnout článek"
 
 # Pagination
 - id: paginationNav
-  translation: "Page navigation"
+  translation: "Navigace na stránce"
 - id: paginationPrevious
   translation: "Předchozí stránka"
 - id: paginationNext
@@ -108,7 +108,7 @@
 
 # Versioning
 - id: latest
-  translation: "latest"
+  translation: "nejnovější"
 - id: allVersions
   translation: "Všechny verze"
 - id: newerVersionAlert
@@ -126,7 +126,7 @@
 - id: copyright
   translation: "Copyright"
 - id: rights
-  translation: "All rights reserved"
+  translation: "Všechna práva vyhrazena"
 - id: poweredBy
   translation: "Powered by {{ . }}."
 

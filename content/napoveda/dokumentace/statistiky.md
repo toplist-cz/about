@@ -41,7 +41,7 @@ V pravé je možnost zvolit statistiky za delší období (týden, měsíc, rok)
 
 {{< image src="/img/statistics/all-stats.png" wrapper="col-10 mx-auto mb-5" >}}
 
-První statistikou je celkový přehled návštěvnosti ([počet návštěv a zhlédnutí](/napoveda/dokumentace/metodika-mereni/#jake-hodnoty-se-meri)) za celou dobu od registrace. Zobrazený je plovoucí týdenní průměr, který není ovlivněn rozdílem návštěvností během pracovních dní a víkendu.
+První statistikou je celkový přehled návštěvnosti ([počet návštěv a zhlédnutí](/napoveda/dokumentace/metodika-mereni/#jake-hodnoty-se-meri)) za celou dobu od registrace. Standardně je zobrazený plovoucí týdenní průměr, který není ovlivněn rozdílem návštěvností během pracovních dní a víkendu. V menu "krok" jde změnit na počet za 1 den, týden a 30 dní.
 
 ### Záznam
 
@@ -60,14 +60,39 @@ Informace, které jsou zobrazeny:
 
 ### návštěvnost
 
-* návštěvy
-* zhlédnutí
-* země
-* hodinová návštěvnost
-* návštěvnost podle dne v týdnu
-* návštěvy - domény
-* návštěvy - TLD
-* reporty Profi
+Statistiky umožňují dva nebo tři typu zobrazení. To je přepíná pomocí ikon v pravém horním rohu bloku:
+![Graf|Pie|Tabulka](/img/statistics/graph-change.png)
+
+Např. v případě zemí původu lze přepínat mezi zobrazením:
+
+{{< image src="/img/statistics/graph-trend.png" wrapper="col-8 mx-auto" >}}
+{{< image src="/img/statistics/graph-pie.png" wrapper="col-8 mx-auto" >}}
+{{< image src="/img/statistics/table.png" wrapper="col-8 mx-auto" >}}
+
+
+#### návštěvy
+{{< image src="/img/statistics/visits.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### zhlédnutí
+{{< image src="/img/statistics/pageviews.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### země
+{{< image src="/img/statistics/country.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### hodinová návštěvnost
+{{< image src="/img/statistics/hour.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### návštěvnost podle dne v týdnu
+{{< image src="/img/statistics/weekday.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### návštěvy - domény
+{{< image src="/img/statistics/domain.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### návštěvy - TLD
+{{< image src="/img/statistics/tld.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### reporty Profi
+{{< image src="/img/statistics/profi.png" wrapper="col-10 mx-auto mb-5" >}}
 
 ### zařízení
 
