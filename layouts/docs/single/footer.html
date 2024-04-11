@@ -2,15 +2,8 @@
 <div class="mt-5 small">
     {{ partial "utilities/git.html" . }}
 </div>
-<script>
-    var remark_config = {
-        host: 'https://o.toplist.cz/remark42/',
-        site_id: 'otoplistcz',
-        locale: 'cs',
-        no_footer: true
-    }
-</script>
-<script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
 <div class="mt-2 col-12">
-    <div id="remark42"></div>
+    <script data-isso="https://o.toplist.cz/comments" src="https://o.toplist.cz/comments/js/embed.min.js"></script>
+    <section id="comments"></section>
+    <div id="isso-thread"></div>
 </div>

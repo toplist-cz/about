@@ -207,6 +207,7 @@
       "main-nav-toggler",
       "mb-0",
       "mb-1",
+      "mb-2",
       "mb-3",
       "mb-5",
       "mb-lg-5",
@@ -333,7 +334,8 @@
       "toc-sidebar",
       "toggler-icon",
       "top-bar",
-      "w-25"
+      "w-25",
+      "w-33"
     ],
     "ids": [
       "-theme",
@@ -427,7 +429,6 @@
       "přesunuli-jsme-stránky-na-jinou-adresu-co-máme-dělat",
       "přihlášení",
       "reklama",
-      "remark42",
       "reporty-profi",
       "rozlišení-monitorů",
       "rs-drupal",
