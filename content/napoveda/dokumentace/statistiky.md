@@ -123,22 +123,56 @@ Poslední reporty vygenerované službou Profi.
 
 ### Zařízení
 
-* prohlížeče
-* operační systémy
-* verze prohlížeče
-* verze op. systému
-* typ zařízení
-* engine prohlížeče
-* rozlišení monitoru
+Druhá sekce zobrazuje statistiky související s použitými zařízeními.
 
-### zdroje
+#### prohlížeče
+{{< image src="/img/statistics/browser.png" wrapper="col-10 mx-auto mb-5" >}}
+Časový vývoj podílu jednotlivých prohlížečů.
 
-* všechny
-* domény
-* vyhledávače
+#### operační systémy
+{{< image src="/img/statistics/os.png" wrapper="col-10 mx-auto mb-5" >}}
 
-### obsah
+#### verze prohlížeče
+{{< image src="/img/statistics/browser_version.png" wrapper="col-10 mx-auto mb-5" >}}
 
-* vstupní stránky
-* stránky
-* výstupní stránky
+#### verze op. systému
+{{< image src="/img/statistics/os_version.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### typ zařízení
+{{< image src="/img/statistics/device_type.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### engine prohlížeče
+{{< image src="/img/statistics/engine.png" wrapper="col-10 mx-auto mb-5" >}}
+
+#### rozlišení monitoru
+{{< image src="/img/statistics/resolution.png" wrapper="col-10 mx-auto mb-5" >}}
+
+
+### Zdroje
+
+Další sekce zobrazuje statistiky související se zdrodi odkud přichází návštěvníci vašich stránek.
+
+#### všechny
+
+Tabulka všech refererů, odkazujících na vaše stránky.
+
+#### domény
+
+Tabulka refererů, odkazujících na vaše stránky, seskupených podle domény 2.řádu.
+
+#### vyhledávače
+
+Graf průběhu počtů návštěv z vyhledávačů.
+
+### Obsah
+
+Sekce se statistikami souvisejícími s obsahem vašich stránek.
+
+#### vstupní stránky
+Tabulka vstupních stránek, tj. stránky, které byly první navštívené v rámci návštěvy.
+
+#### stránky
+Tabulka všech zhlédnutých stránek.
+
+#### výstupní stránky
+Tabulka výstupních stránek, tj. stránky, které byly poslední navštívené v rámci návštěvy.

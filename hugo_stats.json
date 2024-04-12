@@ -207,7 +207,6 @@
       "main-nav-toggler",
       "mb-0",
       "mb-1",
-      "mb-2",
       "mb-3",
       "mb-5",
       "mb-lg-5",
@@ -334,8 +333,7 @@
       "toc-sidebar",
       "toggler-icon",
       "top-bar",
-      "w-25",
-      "w-33"
+      "w-25"
     ],
     "ids": [
       "-theme",
@@ -374,6 +372,8 @@
       "i-základní-ustanovení",
       "ii-povinnosti-a-práva-provozovatele",
       "iii-vyúčtování-a-platby",
+      "ikona-typu-zařízení-mobil-počítač-atd-ikona-prohlížeče-verze-prohlížeče-a-op-systému-rozlišení-ve-tvaru-šířka-x-výška-x-barevná-hloubka",
+      "ikony-další-zhlednutí-s-odkazem-na-stránku-v-popisku-je-čas-titulek-stránky",
       "info",
       "ip",
       "ip-adresa",
@@ -428,8 +428,10 @@
       "proč-není-v-infopanelu-týdenní-návštěvnost-počítána-od-pondělí",
       "přesunuli-jsme-stránky-na-jinou-adresu-co-máme-dělat",
       "přihlášení",
+      "referer-návštěvy",
       "reklama",
       "reporty-profi",
+      "rozlišení-monitoru",
       "rozlišení-monitorů",
       "rs-drupal",
       "rs-joomla",
@@ -442,8 +444,10 @@
       "statistika",
       "statistiky",
       "stručně",
+      "stránky",
       "technická-podpora",
       "testování",
+      "titulek-stránky-její-url-a-odkaz-na-stránku",
       "toast-container",
       "toast-copied-code-message",
       "toast-message-email-4",
@@ -458,9 +462,11 @@
       "unikátní-ip-unique-ip",
       "v-doba-trvání-dohody-a-její-zánik",
       "v-měřených-doménách-se-ukazuje-nějaká-cizí-co-mám-dělat",
+      "verze-op-systému",
       "verze-operačního-systému",
       "verze-prohlížeče",
       "vi-reklamace",
+      "vstupní-stránky",
       "vstupní-stríánky",
       "vyhledávače",
       "vyhledávače-1",
@@ -478,6 +484,7 @@
       "zhlédnutí-pageviews",
       "závěrečná-ustanovení",
       "záznam",
+      "čas-návštěvy-anonymizovaný-hostname-a-ip-návštěvy-ikona-s-vlajkou-země-v-popisku-je-dvouznakový-kód-země",
       "žebříček"
     ]
   }
