@@ -36,3 +36,6 @@ Více detailů o nových statistikách najdete v naší [nápovědě](/napoveda/
 
 ### API
 Data všech statistik jsou dostupná také přes [REST API](/napoveda/dokumentace/rest-api/).
+
+### ... a ještě jedna věc
+Nezměnilo se, že statistiky stále **zůstávají zdarma** pro všechny uživatele. Sjednotili jsme zobrazení i pro naše podporovatele v rámci TOPlist Profi. Ale množství statistik a intervalů zobrazení je v obou případech větší než před změnou.
