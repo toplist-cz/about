@@ -150,7 +150,7 @@ Druhá sekce zobrazuje statistiky související s použitými zařízeními.
 
 ### Zdroje
 
-Další sekce zobrazuje statistiky související se zdrodi odkud přichází návštěvníci vašich stránek.
+Další sekce zobrazuje statistiky související se zdroji odkud přichází návštěvníci vašich stránek.
 
 #### všechny
 
@@ -176,3 +176,7 @@ Tabulka všech zhlédnutých stránek.
 
 #### výstupní stránky
 Tabulka výstupních stránek, tj. stránky, které byly poslední navštívené v rámci návštěvy.
+
+#### lokální hledání
+
+Pokud v [nastavení vašeho webu v službě Profi](https://profi.toplist.cz/#server_setting) nastavíte klíčové slovo, které znamená parametr pro vyhledávání na vašem webu (např. pokud adresa výsledků hledání na vašem serveru vypadá jako *www.server.cz/?search=novinky*, bude klíčové slovo "**search**"), budou zde zobrazeny statistiky hledání.
