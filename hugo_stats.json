@@ -336,6 +336,7 @@
       "w-25"
     ],
     "ids": [
+      "-a-ještě-jedna-věc",
       "-theme",
       "-theme-collapsed",
       "1-neomezovat-měřené-stránky",
@@ -367,11 +368,9 @@
       "engine-prohlížeče",
       "faqfaq--často-kladené-otázky-a-odpovědi-na-ně--",
       "global",
-      "heading",
       "hledané-fráze",
       "hloubka-návštěv",
       "hodinová-návštěvnost",
-      "httpswwwtoplistczstatistics",
       "i-základní-ustanovení",
       "ii-povinnosti-a-práva-provozovatele",
       "iii-vyúčtování-a-platby",
@@ -394,6 +393,7 @@
       "krizová-strategie",
       "kód-na-stránku",
       "loga",
+      "lokální-hledání",
       "lokální-hledání---fráze",
       "menu",
       "metodikadokumentacemetodika-mereni--jak-měříme",
@@ -423,6 +423,7 @@
       "plně-responzivní-design",
       "po-převodu-stránek-na-sslhttps-přestalo-měření-fungovat",
       "pojmy",
+      "použití-tokenu",
       "počítadla",
       "počítadlo",
       "profi",
@@ -473,9 +474,9 @@
       "vstupní-stríánky",
       "vyhledávače",
       "vyhledávače-1",
+      "vytvoření-přístupového-klíče",
       "výstupní-stránky",
       "všechny",
-      "všechny-statistiky-na-jedné-strance",
       "všechny-statistiky-na-jedné-stránce",
       "web",
       "web-toplist",
@@ -487,10 +488,10 @@
       "země",
       "zhlédnutí",
       "zhlédnutí-pageviews",
-      "zjednodušené-přepínání-mezi-stránkami",
       "zobrazení-aktuálních-statistik",
       "závěrečná-ustanovení",
       "záznam",
+      "získání-přístupového-tokenu",
       "žebříček"
     ]
   }
