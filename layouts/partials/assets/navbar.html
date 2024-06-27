@@ -213,11 +213,11 @@
             <div class="navbar-collapse collapse" id="{{ $id }}-collapse">
                 <!-- Insert search input -->
                 {{- if and $search (not $searchModal)  }}{{ partial "assets/search-input.html" }}{{ end -}}
-                <a href="https://www.toplist.cz" id="toplistcz666" title="TOPlist"><noscript><img src="https://toplist.cz/dot.asp?id=666&logo=mc&njs=1" border="0"
+                <a href="https://www.toplist.cz" id="toplistcz666" title="TOPlist"><noscript><img src="https://toplist.cz/dot.asp?id=666&logo=mc&njs=1&seed=123" border="0"
                     alt="TOPlist" width="1" height="1" border=0/></noscript><script language="JavaScript" type="application/javascript" charset="utf-8">
                     (function(d,e,s) {d.getElementById('toplistcz666').innerHTML='<img src="https://toplist.cz/dot.asp?id=666&logo=mc&http='+
                     e(d.referrer)+'&t='+e(d.title)+'&l='+e(d.URL)+'&wi='+e(s.width)+'&he='+e(s.height)+'&cd='+
-                    e(s.colorDepth)+'" width="1" height="1" border=0 alt="TOPlist" />';
+                    e(s.colorDepth)+'&seed=123" width="1" height="1" border=0 alt="TOPlist" />';
                     }(document,encodeURIComponent,window.screen))
                     </script></a>
                 <!-- Render top-menu items (maximum depth of 2) -->
