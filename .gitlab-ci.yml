@@ -28,7 +28,7 @@ default:
     - chmod 644 ~/.ssh/known_hosts
     - |
       curl -IkLs -o NUL -w %{url_effective} \
-      https://github.com/gohugoio/hugo/releases/latest|\
+      https://github.com/gohugoio/hugo/releases/v0.125.7|\
       grep -o "[^/]*$"| sed "s/v//g"|\
       xargs -I T echo \
       https://github.com/gohugoio/hugo/releases/download/vT/hugo_extended_T_linux-amd64.deb \
