@@ -1,6 +1,6 @@
 title = "O TOPlist.cz"
 copyright = "© 1997 - 2024, TOPlist s.r.o."
-paginate = 9
+#paginate = 9
 enableGitInfo = true
 
 # additional settings

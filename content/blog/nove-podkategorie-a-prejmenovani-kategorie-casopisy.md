@@ -1,6 +1,6 @@
 ---
 title: "Nové podkategorie a přejmenování kategorie Časopisy"
-date: 2023-10-17T
+date: 2023-10-17
 lastmod: 2023-10-17
 type: "posts"
 authors:
