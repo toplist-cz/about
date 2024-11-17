@@ -14,9 +14,6 @@ Jedná se o základní veličinu měřenou TOPlistem. Podle obecných pravidel s
 ## Zhlédnutí (pageviews)
 Tato hodnota znamená každé zobrazení stránky (nebo stránek, pokud je kód umístěn na více). A to i v případě, kdy uživatel použije třeba tlačítko Obnovit.
 
-## Unikátní IP (unique IP)
-Ukazuje z kolika různých počítačů přišli návštěvníci za určité období. TOPlist počítá unikátní IP po hodinách a za celý den. V případě, že jsou uživatelé např. „za“ proxy serverem, může se poměrně velké množství různých počítačů přihlašovat pod jednou IP. Proto měření Návštěv víc odpovídá skutečnosti.
-
 Toto jsou hlavní veličiny, které TOPlist měří o návštěvnosti. Další hodnoty jsou doplňkové a umožňují další upřesnění informací o návštěvnících. Patří k nim informace o používaných prohlížečích, operačních systémech, domény návštěvníků, rozlišení a barevná hloubka monitorů ad.
 
 Další popis zobrazovaných hodnot naleznete také v [Často kladených otázkách](/napoveda/faq/).

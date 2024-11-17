@@ -11,7 +11,7 @@ V reportu lze vytvořit statistiky následujících hodnoty:
 počet návštěv, které byly zaznamenány na webu. Návštěva je definována jako sledování aktivit uživatele na webu. Návštěva končí po 30 minutách nečinnosti uživatele na webu. Pokud se uživatel vrátí na web po více než 30 minutách, bude to považováno za novou návštěvu.
 
 ### Unikátní IP
-počet unikátních anonymních IP adres, které byly zaznamenány na webu. 
+počet unikátních anonymizovaných IP adres, které byly zaznamenány na webu. 
 
 ### Zhlédnutí
 počet zhlédnutých stránek na webu. Zhlédnutí je definováno jako zobrazení stránky uživatelem. Zobrazení dalších stránek nebo opětovné zobrazení stejné stránky se počítá jako další zhlédnutí.
