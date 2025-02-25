@@ -33,4 +33,4 @@ V nastavení účtu lze definovat vlastní IP adresy, které se nebudou do měř
 
 Každý měřený web lze rozděli na neomezené množství vlastních sekcí, které se budou měřit samostatně. Např. pro e-shop lze měřit jednotlivé kategorie, pro blog jednotlivé rubriky.
 
-# Další stránky z nápovědou:
+# Další stránky nápovědy:
