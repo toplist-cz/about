@@ -6,12 +6,15 @@
             "request": "launch",
             "cwd": "${workspaceRoot}",
             "env": {
+                "HUGO_ENV": "development"
             },
             "runtimeExecutable": "hugo",
-            "runtimeArgs": [
+            "args": [
                 "server",
                 "--disableFastRender"
             ],
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
             "serverReadyAction": {
                 "pattern": "Running on http://0.0.0.0:([0-9]+)",
                 "uriFormat": "http://localhost:%s",
