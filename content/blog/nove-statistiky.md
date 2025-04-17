@@ -14,7 +14,7 @@ https://www.toplist.cz/statistics/
 jsme připravili zcela novou verzi statistik. Hlavní novinky jsou:
 
 ### Všechny statistiky na jedné stránce
-Není potřeba vybírat jednotlivé statistiky. Stačí jen posouvat stránku dolů a všechny statistiky se postupně načtou. Zároveň je možné jednoduše přejít na konkrétní statistiku pomocí menu v horní části stánky.
+Není potřeba vybírat jednotlivé statistiky. Stačí jen posouvat stránku dolů a všechny statistiky se postupně načtou. Zároveň je možné jednoduše přejít na konkrétní statistiku pomocí menu v horní části stránky.
 
 ### Rychlá volba zobrazení
 Statistiky lze nyní jednoduše přepínat mezi různými zobrazeními. Například mezi grafem, souhrnným kolačovým grafem a tabulkou.
