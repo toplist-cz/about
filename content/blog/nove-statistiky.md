@@ -4,6 +4,8 @@ type: posts
 date: 2024-04-17
 authors:
     - toplist
+tags:
+- statistiky
 thumbnail: "/img/blog/statistics.png"
 ---
 Na adrese:

@@ -1,5 +1,5 @@
 ---
-title: TOPlist – zakulisí
+title: TOPlist – zákulisí
 type: posts
 date: 2005-08-21
 authors:
