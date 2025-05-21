@@ -6,7 +6,7 @@ type: docs
 na TOPlist lze pohlížet třemi různými způsoby:
 
 ## Měření návštěvnosti
-tvůrci webových stránek mohou pomocí TOPlistu zjišťovat více než [30 údajů o návštěvnosti](./dokumentace/statistiky/). Ať už technické (rozlišení monitorů, použité prohlížeče a operační systémy) nebo marketingové (z jakých stránek uživatelé přichází, země původu ad.). Další rozšířené statistiky a jejich dlouhodobé uchovávání je dostupné v rámci služby [TOPlist Profi](./napoveda/toplist-profi/registrace/).
+tvůrci webových stránek mohou pomocí TOPlistu zjišťovat více než [30 údajů o návštěvnosti](./dokumentace/statistiky/). Ať už technické (rozlišení monitorů, použité prohlížeče a operační systémy) nebo marketingové (z jakých stránek uživatelé přichází, země původu ad.). Další rozšířené statistiky a jejich dlouhodobé uchovávání je dostupné v rámci služby [TOPlist Profi](./toplist-profi/registrace/).
 
 ## Žebříček
 návštěvnost vašich stránek můžete porovnávat v jedné z víc než 50 kategorií.
