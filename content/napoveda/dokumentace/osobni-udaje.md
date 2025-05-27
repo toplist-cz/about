@@ -23,7 +23,7 @@ Cookies se pro měření návštěvnosti nepoužívají.
 Anonymizované IP adresy se ukládají po dobu 5 dní a přístup k nim (vždy maximálně 100 posledních záznamů) má správce měřené stránky. V případě, že statistiky nejsou chráněny heslem, jsou veřejné.
 
 IP adresa je použitá pro technické zabezpečení provozu služby, tj. ke statistickému měření návštěvnosti stránky. Provozovatel, dle článku 11, odstavec 1 Nařízení, neuchovává, nezískává ani nezpracovává dodatečné informace za účelem identifikace subjektu údajů.
-## Web TOPlist
+# Web TOPlist
 
 Web TOPlist používá pro přihlášení ID stránky a uživatelem zvolené heslo, které je uloženo v [bcrypt](https://cs.wikipedia.org/wiki/Bcrypt) hashovaném tvaru. Kontaktní email (případně emaily) nemá souvislost s přihlašováním a heslem. Může sloužit k zaslání odkazu pro změnu zapomenutého hesla a, volitelně, pro zasílání pravidelných statistických reportů. Seznam stránek, kde je email použitý jako kontaktní, lze získat [zde](https://www.toplist.cz/edit/email/).
 
