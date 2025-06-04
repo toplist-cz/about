@@ -33,4 +33,11 @@ V nastavení účtu lze definovat vlastní IP adresy, které se nebudou do měř
 
 Každý měřený web lze rozděli na neomezené množství vlastních sekcí, které se budou měřit samostatně. Např. pro e-shop lze měřit jednotlivé kategorie, pro blog jednotlivé rubriky.
 
+# Stránka služby
+
+Služba TOPlist Profi je dostupná na adrese:
+
+https://profi.toplist.cz/
+{.h1 class="text-center mb-5"}
+
 # Další stránky nápovědy:
