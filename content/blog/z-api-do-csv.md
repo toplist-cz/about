@@ -17,7 +17,7 @@ Skript (`api2csv.py`) je napsaný v čistém Pythonu, bez použití dalších kn
 
 Použití je jednoduché:
 
-Pro zjednodušení jsou parametry nastavitelné přímo v kódu, takže stačí upravit soubor `api2csv.py` a updavit hodnoty pro `API_TOKEN` a `POST_DATA`.
+Pro zjednodušení jsou parametry nastavitelné přímo v kódu, takže stačí upravit soubor `api2csv.py` a upravit hodnoty pro `API_TOKEN` a `POST_DATA`.
 
 `API_TOKEN` je váš API klíč, který získáte v [administraci TOPlistu](https://profi.toplist.cz/#server_setting)
 a v `POST_DATA` nastavíte parametry pro API volání, které odpovídají vašim požadavkům na statistiky. Jejich struktura je následující:
