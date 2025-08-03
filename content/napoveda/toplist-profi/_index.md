@@ -1,6 +1,5 @@
 ---
 title: TOPlist Profi
-menu: main
 type: docs
 ---
 # Hlavní vlastnosti služby Profi
