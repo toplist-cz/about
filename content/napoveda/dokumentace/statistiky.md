@@ -180,3 +180,13 @@ Tabulka výstupních stránek, tj. stránky, které byly poslední navštívené
 #### lokální hledání
 
 Pokud v [nastavení vašeho webu v službě Profi](https://profi.toplist.cz/#server_setting) nastavíte klíčové slovo, které znamená parametr pro vyhledávání na vašem webu (např. pokud adresa výsledků hledání na vašem serveru vypadá jako *www.server.cz/?search=novinky*, bude klíčové slovo "**search**"), budou zde zobrazeny statistiky hledání.
+
+### Kampaně
+
+#### zdroje
+{{< image src="/img/statistics/utmSource.png" wrapper="col-10 mx-auto mb-5" >}}
+Graf zdrojů podle parametru `utm_source`
+
+#### kampaně
+{{< image src="/img/statistics/utmCampaign.png" wrapper="col-10 mx-auto mb-5" >}}
+Graf kampaní podle parametru `utm_campaign`
