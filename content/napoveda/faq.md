@@ -8,6 +8,10 @@ Na této stránce se budeme snažit odpovídat na některé časté dotazy, kter
 ## Je služba placená nebo zdarma?
 Služba je zdarma. Je možné přikoupit rozšířenou službu [TOPlist Profi](https://profi.toplist.cz).
 
+## Co je to TOPlist ID?
+TOPlist ID je číslo, které rozlišuje jednotlivé registrované webové stránky. Je proto nedílnou součástí [měřícího kódu](https://www.toplist.cz/code/), slouží k přístupu k [nastavení informací](/napoveda/dokumentace/nastaveni/) o stránce a do statistik.
+Získáte jej okamžitě po registraci. Později je možné jej najít při vyhledání vaší stránky v podrobných informacích o stránce.
+
 ## Jaký je rozdíl mezi návštěvou a zhlédnutím?
 Hodnoty, které jsou měřeny, a způsob, jakým jsou zaznamenávány, je popsané v [metodice měření](/napoveda/dokumentace/metodika-mereni/).
 

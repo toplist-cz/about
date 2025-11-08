@@ -1,8 +1,21 @@
 ---
 title: "Nápověda"
-menu: main
 type: docs
 ---
+
+{{< card-group padding="3" gutter="3" class="mx-auto homepage-links" >}}
+    {{< card title="Dokumentace" class="text-center" color="primary" header="none" icon="fas book text-white" path="/napoveda/dokumentace/" >}}
+    {{< /card >}}
+    {{< card title="Měřící kód" class="text-center" color="danger" header="none" icon="fas code text-white" path="/napoveda/kod-na-stranku/" >}}
+    {{< /card >}}
+    {{< card title="TOPlist Profi" class="text-center" color="success" icon="fas fa-chart-bar text-white" path="/napoveda/toplist-profi/" >}}
+    {{< /card >}}
+{{< /card-group >}}
+
+
+
+# Co je TOPlist?
+
 na TOPlist lze pohlížet třemi různými způsoby:
 
 ## Měření návštěvnosti

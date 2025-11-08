@@ -3,6 +3,9 @@ title: Statistiky
 type: docs
 ---
 
+https://www.toplist.cz/statistics/
+{.h1 class="text-center mb-5"}
+
 ## Přihlášení
 
 {{< image src="/img/statistics/login.png" wrapper="col-10 mx-auto mb-5" >}}
