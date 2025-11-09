@@ -6,7 +6,7 @@ type: docs
 https://www.toplist.cz/edit/
 {.h1 class="text-center mb-5"}
 
-V nastavení lze editovat základní údaje o registrované strance (adresa, název, popisek, kategorie, kontaktní email), další volby (přístup bez hesla, změna hesla, skrytí statistik a další) a přehled přihlášení k účtu.
+V nastavení lze editovat základní údaje o registrované stránce (adresa, název, popisek, kategorie, kontaktní email), další volby (přístup bez hesla, změna hesla, skrytí statistik a další) a přehled přihlášení k účtu.
 
 ## Přihlášení
 
@@ -41,4 +41,4 @@ Druhá čast stránky je menu s odkazy na změnu hesla, vynulování statistik a
 
 {{< image src="/img/settings/log.png" wrapper="col-10 mx-auto mb-5" >}}
 
-Poslední částí stránky je seznam přihlášení. Obsahuje čas posledního přihlášení z přislužné IP adresy a akci, které toho přihlášení vyžadovala.
+Poslední částí je seznam přihlášení. Obsahuje čas posledního přihlášení z přislušné IP adresy a akci, které toho přihlášení vyžadovala.
