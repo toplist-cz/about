@@ -20,3 +20,4 @@ Dodnes přináší některé výhody:
 Přihlášení pomocí emailu je použito hlavně v rámci služby [TOPlist Profi](../napoveda/toplist-profi/), která umožňuje některé funkce využít i v základní bezplatné verzi TOPlistu.
 
 Hlavní výhodou přihlášení pomocí emailu je možnost sloučení více účtů pod jednu emailovou adresu. Základní sloučení proběhne automaticky, kdy se při přihlášení přiřadí všechny registrace, které mají stejný email jako kontaktní. Další web lze přidávat ručně pomocí funkce ["Profi: přidání nového webu"](../napoveda/toplist-profi/pridani-noveho-webu.md). V [nových statistikách](https://www.toplist.cz/statistics/) pak můžete mezi weby [jednoduše přepínat](../napoveda/dokumentace/statistiky.md#menu).
+V rámci služby Profi to dále umožňuje vytváření přístupů s různou úrovní oprávnění pro různé uživatele. Nápříklad rozlišovat přístup pro editaci nastavení a přístup pouze ke statistikám.
