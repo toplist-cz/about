@@ -12,7 +12,7 @@ TOPlist umožňuje přihlásit se k vašemu účtu pomocí vašeho TOPlist ID ne
 Vzniklo jako první způsob v dobách, kdy přihlašování pomocí emailu nebylo běžné. Pro ilustraci, Gmail, který přihlašování pomocí emailu zpopularizoval, vznikl až o 7 let později než TOPlist.
 
 Dodnes přináší některé výhody:
-- **Ochrana soukromí**: K používání TOPlistu nepotřebujete nikde zadávat svůj email. Email se používá pouze jako kontaktní údaj pro obnovení hesla nebo posílání týdenních reportů. Pokud si tedy heslo budete pamatovat a nebudete chtít dostávat reporty, nemusíte nikde zadávat svůj email.
+- **Ochrana soukromí**: K používání TOPlistu nepotřebujete nikde zadávat svůj email. Email se používá pouze jako kontaktní údaj pro obnovení hesla nebo posílání týdenních reportů. Pokud si tedy heslo budete pamatovat a nebudete chtít dostávat reporty, nemusíte ho mít vyplněný.
 - **Jednoduchost**: TOPlist ID je stejně potřeba použít v měřícím kódu na vašich stránkách, takže jej máte vždy po ruce a nemusíte vzpomínat jakým emailem se vlastně máte přihlásit.
 - **Stabilita**: Na rozdíl od emailu, který se může měnit (změna správce stránek, pracovní email apod.), TOPlist ID zůstává konstantní po celou dobu existence vašeho účtu.
 
