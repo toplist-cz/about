@@ -1,6 +1,8 @@
 ---
 title: "Nápověda"
 type: docs
+menu: main
+weight: 25
 ---
 
 {{< card-group padding="3" gutter="3" class="mx-auto homepage-links" >}}
