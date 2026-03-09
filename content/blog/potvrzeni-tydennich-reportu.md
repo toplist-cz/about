@@ -26,3 +26,7 @@ A jak jsem slíbil, tak se také stalo. Pokud jste v lednu neklikli na odkaz pro
 ## Co když je chci zpět?
 
 Pokud byste si to rozmysleli, můžete zasílání reportů opět povolit v [nastavení](../napoveda/dokumentace/nastaveni.md) vašeho účtu na TOPlistu.
+
+## Statistiky
+
+A, pochopitelně, o naměřené statistiky jste nepřišli. Stále jsou dostupné na [webu](../napoveda/dokumentace/statistiky.md).
