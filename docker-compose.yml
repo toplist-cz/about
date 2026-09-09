@@ -1,0 +1,10 @@
+services:
+  toplist-about:
+    build: .
+    image: toplist-about:latest
+    container_name: toplist-about
+    ports:
+      - "8090:80"
+    restart: unless-stopped
+    environment:
+      TZ: Europe/Prague
