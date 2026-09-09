@@ -9,15 +9,15 @@ tags:
     - javascript
     - statistiky
 ---
-Asi znáte web [caniuse.com](https://caniuse.com/) — velmi užitečnou službu, která vám řekne, jestli daný prohlížeč danou vlastnost JavaScriptu podporuje. Jenže odpovídá na otázku *„zvládne to prohlížeč?"*, nikoli *„zvládají to *moji* návštěvníci?"*. A to jsou dvě odlišné věci.
+Asi znáte web [caniuse.com](https://caniuse.com/) — velmi užitečnou službu, která vám řekne, jestli daný prohlížeč danou vlastnost JavaScriptu/CSS podporuje. Jenže odpovídá na otázku *„zvládne to prohlížeč?"*, nikoli *„zvládají to *moji* návštěvníci?"*. A to jsou dvě odlišné věci.
 
-Proto jsem si řekl, že je spojím. Vytvořil jsem **Can I Use @ TOPlist** — jednoduchou aplikaci, která vezme seznam JavaScript funkcí z Can I Use a doplní k nim **reálná data o tom, jestli je mají vaši návštěvníci ve skutečnosti k dispozici**. Namísto statické matice prohlížečů dostanete časovou osu: jak se podpora jednotlivých funkcí měnila v čase, na reálném provozu, který TOPlist měří přímo na vašem webu.
+Proto jsem si řekl, že je spojím. Vytvořil jsem **Can I Use @ TOPlist** — jednoduchou aplikaci, která vezme seznam vlastností z Can I Use a doplní k nim **reálná data o tom, jestli je mají vaši návštěvníci ve skutečnosti k dispozici**. Namísto statické matice prohlížečů dostanete časovou osu: jak se podpora jednotlivých funkcí měnila v čase, na reálném provozu, který TOPlist měří přímo na vašem webu.
 
 ## Jak to funguje
 
 1. Vyberete svůj web.
 2. Zvolíte časový rozsah (30 dní, rok, 5 let, nebo vlastní interval).
-3. Přidáte JavaScript funkce a vlastnosti, které vás zajímají.
+3. Přidáte funkce a vlastnosti, které vás zajímají.
 
 A aplikace nakreslí graf — po jednom grafu na funkci — s tím, kolik vašich návštěvníků tu funkci mělo k dispozici v daném okamžiku. Tím vidíte, jestli se „bezpečná" funkce, na kterou se chcete spolehnout, ve vašem provozu skutečně ujala, případně její historii (jestli je to funkce jejíž podpora klesá nebo naopak bude časem použitelnější).
 
