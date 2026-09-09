@@ -25,7 +25,10 @@
 - Commands (from repo root, on docker node):
   - `sudo docker compose up -d --build` — build + serve at http://10.2.40.122:8090/
   - `sudo docker compose down` — stop
-- **Git rule:** never commit to `main` (protected) — feature branch + MR. (2026-09-09: build files + `memory/` added on working tree, uncommitted — Boss to decide on MR.)
+- **Git rule (general, applies to every project):** never commit to `main` (protected) — feature branch + MR.
+- Git identity (repo-local): `Claw (OpenClaw) <claw@openclaw.local>`.
+- **2026-09-09:** build files + this memory committed as `b3b1f44` on `feat/docker-build` → **MERGED into `main` (8db13b2)**, branch deleted on origin.
+- **2026-09-09 (blog):** article `content/blog/toplist-can-i-use.md` — **"TOPlist ❤️ Can I Use"** (CZ, author `toplist`, tags javascript+statistiky) about the `caniuse` project. Commit `97b7b99` on branch **`feat/blog-caniuse`** (pushed; MR pending). Image rebuilt + container restarted; article verified at `/blog/toplist-can-i-use/` (200, correct title).
 
 ## Build gotchas (verified 2026-09-09)
 - **Registry mirror here serves only `gohugoio/hugo:latest`** (base, no `extended` binary) — tags `:ext` / `:0.147.7` etc. fail with "not found". Hence the .deb install in the Dockerfile.
