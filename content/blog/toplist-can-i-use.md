@@ -19,7 +19,7 @@ Proto jsem si řekl, že je spojím. Vytvořil jsem **Can I Use @ TOPlist** — 
 2. Zvolíte časový rozsah (30 dní, rok, 5 let, nebo vlastní interval).
 3. Přidáte funkce a vlastnosti, které vás zajímají.
 
-A aplikace nakreslí graf — po jednom grafu na funkci — s tím, kolik vašich návštěvníků tu funkci mělo k dispozici v daném okamžiku. Tím vidíte, jestli se „bezpečná" funkce, na kterou se chcete spolehnout, ve vašem provozu skutečně ujala, případně její historii (jestli je to funkce jejíž podpora klesá nebo naopak bude časem použitelnější).
+A aplikace nakreslí graf — po jednom grafu na funkci — s tím, kolik procent vašich návštěvníků tu funkci mělo k dispozici v daném okamžiku. Tím vidíte, jestli se „bezpečná" funkce, na kterou se chcete spolehnout, ve vašem provozu skutečně ujala, případně její historii (jestli je to funkce jejíž podpora klesá nebo naopak bude časem použitelnější).
 
 {{< image src="/img/blog/caniuse-graph.png" wrapper="col-10 mx-auto">}}
 
