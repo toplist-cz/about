@@ -1,5 +1,5 @@
 ---
-title: Přehled registrovaných stránek podle emailu
+title: Tabulka návštěv za rok
 type: posts
 date: 2018-01-21
 authors:
