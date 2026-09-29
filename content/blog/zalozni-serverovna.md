@@ -4,6 +4,8 @@ type: posts
 date: 2013-04-11
 authors:
   - toplist
+tags:
+  - hardware
 ---
 Jeden aktuální obrázek ze záložní lokace. Servery jsou standardní (2x CPU, 32GB RAM) od SGI nebo Supermicra. Asi nejzajímavější je použitý interconnect pomocí Infinibandu, tj. víc než desetkrát rychlejší než běžný gigový ethernet. A za pár let se budeme jenom usmívat nad tím, co nám dneska přišlo jako slušný výkon.
 
