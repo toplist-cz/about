@@ -30,6 +30,8 @@
 - **2026-09-09:** build files + this memory committed as `b3b1f44` on `feat/docker-build` → **MERGED into `main` (8db13b2)**, branch deleted on origin.
 - **2026-09-09 (blog):** article `content/blog/toplist-can-i-use.md` — **"TOPlist ❤️ Can I Use"** (CZ, author `toplist`, tags javascript+statistiky) about the `caniuse` project. Commit `97b7b99` on branch **`feat/blog-caniuse`** (pushed; MR pending). Image rebuilt + container restarted; article verified at `/blog/toplist-can-i-use/` (200, correct title).
 
+- **Network (2026-11-16):** compose default network `about_default` pinned to explicit ipam subnet **172.26.1.0/28** (was legacy auto /16 172.19.0.0/16; name unchanged, recreate-only). See `memory/changelog.md`.
+
 ## Build gotchas (verified 2026-09-09)
 - **Registry mirror here serves only `gohugoio/hugo:latest`** (base, no `extended` binary) — tags `:ext` / `:0.147.7` etc. fail with "not found". Hence the .deb install in the Dockerfile.
 - **Hugo version matters:** 0.147.7 fails with `partial "partials/image-definition.html" not found` — Hinode v0.22.3 `define`s that partial inside `layouts/partials/assets/image.html:152`, and newer Hugo no longer registers it when that partial isn't directly invoked. 0.125.7 (CI version) builds clean. Keep the pin.

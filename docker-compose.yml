@@ -8,3 +8,8 @@ services:
     restart: unless-stopped
     environment:
       TZ: Europe/Prague
+networks:
+  default:
+    ipam:
+      config:
+        - subnet: 172.26.1.0/28
