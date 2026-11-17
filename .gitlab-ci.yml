@@ -14,47 +14,45 @@ image: debian:stable
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
   HUGO_ENV: production
+  HUGO_VERSION: 0.125.7
   THEME_URL: "github.com/thegeeklab/hugo-geekdoc"
+
+stages:
+  - build
+  - deploy
 
 default:
   before_script:
     - ln -fs /usr/share/zoneinfo/Europe/Prague /etc/localtime
-    - apt-get update -qq && apt-get upgrade -y -qq && apt-get install -y -qq git golang-go curl rsync openssh-client openssl
+    - apt-get update -qq && apt-get install -y -qq git curl rsync openssh-client openssl
+    ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
+    #- npm install postcss postcss-cli autoprefixer
+
+build:
+  stage: build
+  script:
+    - curl -fsSL -o hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+    - dpkg -i hugo.deb
+    - rm -f hugo.deb
+    - git submodule update --init --recursive
+    - hugo
+  artifacts:
+    paths:
+      - public
+
+deploy:
+  tags:
+    - kvm
+  stage: deploy
+  needs:
+    - build
+  script:
     - eval $(ssh-agent -s)
     - echo "${DEPLOY_KEY}" | openssl base64 -A -d | ssh-add -
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
     - ssh-keyscan 10.183.148.183 >> ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
-    - |
-      curl -IkLs -o NUL -w %{url_effective} \
-      https://github.com/gohugoio/hugo/releases/v0.125.7|\
-      grep -o "[^/]*$"| sed "s/v//g"|\
-      xargs -I T echo \
-      https://github.com/gohugoio/hugo/releases/download/vT/hugo_extended_T_linux-amd64.deb \
-      -o hugo_extended_T_linux-amd64.deb | \
-      xargs curl -kL
-    - dpkg -i hugo*.deb
-    - rm -f hugo*.deb
-    - git submodule update --init --recursive
-    ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
-    #- npm install postcss postcss-cli autoprefixer
-
-test:
-  script:
-    - hugo
-    - rsync -rav --delete-after ./public gitlab@10.183.148.183:www/about-dev
-  rules:
-    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
-
-deploy:
-  tags:
-    - kvm
-  script:
-    - hugo
-    - rsync -rav --delete-after ./public/ gitlab@10.183.148.183:www/t
-  artifacts:
-    paths:
-      - public
+    - rsync -rav --delete-after --min-size=1 ./public/ gitlab@10.183.148.183:www/t
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
