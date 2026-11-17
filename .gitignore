@@ -2,6 +2,7 @@
 /public
 resources/
 node_modules/
+/.go-modcache
 
 .DS_store
 .hugo_build.lock

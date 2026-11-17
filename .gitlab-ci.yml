@@ -16,6 +16,8 @@ variables:
   HUGO_ENV: production
   HUGO_VERSION: 0.125.7
   THEME_URL: "github.com/thegeeklab/hugo-geekdoc"
+  # keep the Go module cache inside the project dir so it can be cached by the runner
+  GOMODCACHE: $CI_PROJECT_DIR/.go-modcache
 
 stages:
   - build
@@ -24,12 +26,18 @@ stages:
 default:
   before_script:
     - ln -fs /usr/share/zoneinfo/Europe/Prague /etc/localtime
-    - apt-get update -qq && apt-get install -y -qq git curl rsync openssh-client openssl
+    - apt-get update -qq && apt-get install -y -qq git golang-go curl rsync openssh-client openssl
     ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
     #- npm install postcss postcss-cli autoprefixer
 
 build:
   stage: build
+  cache:
+    key:
+      files:
+        - go.sum
+    paths:
+      - .go-modcache
   script:
     - curl -fsSL -o hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
     - dpkg -i hugo.deb
